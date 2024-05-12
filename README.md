@@ -10,6 +10,11 @@
 * GIT
 * GITHUB
 
+### INTELLIJ IDEA - AUTOMATION SOLUTION
+![image](https://github.com/shahnawazm786/automation/assets/49604292/7a8a7c8d-65c6-4692-95e5-e5009cc47a0b)
+
+
+
 
 
 
