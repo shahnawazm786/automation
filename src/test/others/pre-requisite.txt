@@ -1,0 +1,23 @@
+Requirement - 
+
+Java
+https://www.oracle.com/in/java/technologies/javase/jdk11-archive-downloads.htmlJava
+
+Eclipse / IntelliJ Idea
+
+https://www.jetbrains.com/idea/download/?section=windows
+
+Envoinemt set
+----------------
+
+
+GitHub
+------------
+
+
+https://github.com/shahnawazm786
+
+https://www.youtube.com/@kaz-ittraininghub9388 
+
+
+
