@@ -1,0 +1,53 @@
+Introduction
+---------------
+Java Language - 
+OOPS - Obejct Oriented Programming language
+----
+Classes and Object
+Object 
+
+class - keyword
+Object - Attributes / Properties and Function & 
+Man - Height, Weight, Color, Character .... 
+Function - Eat, Run, Play, Song,  
+
+Nound - Attributes
+Verb - Method 
+
+------
+Blinkit - Attributes / Actions
+sub object -  classes 
+
+java program - class 
+main()
+
+----
+class Blinkit
+{
+	public static void main(String[] args){ - execution
+		int a=100; // attribute
+		System.out.print(a); // display //console
+		
+	}
+}
+
+---
+JDK - Java development Kit (class) -
+JRE  - Java Runtime Environment (run)
+
+Blinkit - class -> abc -> a 
+new - 
+
+Class Car
+{
+void run();
+int speed();
+}
+
+JVM & JRE - memory - c -> default constructor
+
+Car c=new Car();
+Car d=new Car();
+Car e=new Car();
+if (c==d) - false
+
