@@ -1,4 +1,4 @@
-package org.example;
+package org.example.day01;
 
 public class Blinkit {
     public static void main(String[] args) {
