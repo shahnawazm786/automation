@@ -40,5 +40,6 @@
 </project>
 
 
-  
-![java-coding-interview-yellow](https://github.com/shahnawazm786/automation/assets/49604292/ee1b6cf7-cf00-43cb-a1ce-8e6b85c3137e)
+  ![red_background_thumbnail](https://github.com/shahnawazm786/automation/assets/49604292/3ea2c146-72f6-43e4-96d3-be659311b63d)
+
+
