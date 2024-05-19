@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="today class" />
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="today class">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/Session_01_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/Session_01_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/Session_01_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/Session_02_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/Session_02_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,52 +49,52 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Session_02_05">
+  <component name="RunManager" selected="Application.Session_02_01">
+    <configuration name="Session_01_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day03.Session_01_01" />
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Session_01_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day03.Session_01_02" />
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Session_01_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day03.Session_01_03" />
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Session_02_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day02.Session_02_01" />
+      <option name="MAIN_CLASS_NAME" value="org.example.day03.Session_02_01" />
       <module name="automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Session_02_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day02.Session_02_02" />
-      <module name="automation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Session_02_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day02.Session_02_03" />
-      <module name="automation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Session_02_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day02.Session_02_04" />
-      <module name="automation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.day02.*" />
+          <option name="PATTERN" value="org.example.day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Session_02_05" />
-        <item itemvalue="Application.Session_02_04" />
-        <item itemvalue="Application.Session_02_03" />
-        <item itemvalue="Application.Session_02_02" />
         <item itemvalue="Application.Session_02_01" />
+        <item itemvalue="Application.Session_01_03" />
+        <item itemvalue="Application.Session_01_02" />
+        <item itemvalue="Application.Session_01_01" />
+        <item itemvalue="Application.Session_02_05" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716013408685</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="today class">
+      <created>1716085826835</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1716085826835</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
