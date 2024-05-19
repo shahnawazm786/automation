@@ -38,8 +38,6 @@ public class Session_01_02 {
 
         // calculation
 
-
-
     }
 }
 
