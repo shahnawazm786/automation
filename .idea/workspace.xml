@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="today class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/Session_01_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/Session_01_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/Session_01_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/Session_02_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day03/Session_02_02.java" afterDir="false" />
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="if">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -302,7 +297,49 @@
       <option name="project" value="LOCAL" />
       <updated>1716085826835</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="automation class">
+      <created>1716092924895</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1716092924895</updated>
+    </task>
+    <task id="LOCAL-00026" summary="if">
+      <created>1716092937711</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1716092937711</updated>
+    </task>
+    <task id="LOCAL-00027" summary="if">
+      <created>1716092947295</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1716092947295</updated>
+    </task>
+    <task id="LOCAL-00028" summary="if">
+      <created>1716092952545</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1716092952546</updated>
+    </task>
+    <task id="LOCAL-00029" summary="if">
+      <created>1716092958999</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1716092958999</updated>
+    </task>
+    <task id="LOCAL-00030" summary="if">
+      <created>1716092964973</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1716092964973</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,6 +355,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="today class" />
-    <option name="LAST_COMMIT_MESSAGE" value="today class" />
+    <MESSAGE value="automation class" />
+    <MESSAGE value="if" />
+    <option name="LAST_COMMIT_MESSAGE" value="if" />
   </component>
 </project>
