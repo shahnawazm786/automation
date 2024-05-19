@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="today class">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/InterviewQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/Session_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/Session_01_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/Session_02_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/Session_02_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/Session_02_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/Session_02_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/Session_02_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Blinkit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day01/Blinkit.java" afterDir="false" />
-    </list>
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="today class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,7 +211,84 @@
       <option name="project" value="LOCAL" />
       <updated>1715487078657</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="today class">
+      <created>1716013337596</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1716013337596</updated>
+    </task>
+    <task id="LOCAL-00014" summary="today class">
+      <created>1716013347098</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1716013347098</updated>
+    </task>
+    <task id="LOCAL-00015" summary="today class">
+      <created>1716013351657</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1716013351657</updated>
+    </task>
+    <task id="LOCAL-00016" summary="today class">
+      <created>1716013357710</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1716013357710</updated>
+    </task>
+    <task id="LOCAL-00017" summary="today class">
+      <created>1716013366411</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1716013366411</updated>
+    </task>
+    <task id="LOCAL-00018" summary="today class">
+      <created>1716013374078</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1716013374078</updated>
+    </task>
+    <task id="LOCAL-00019" summary="today class">
+      <created>1716013382029</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1716013382029</updated>
+    </task>
+    <task id="LOCAL-00020" summary="today class">
+      <created>1716013388452</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1716013388452</updated>
+    </task>
+    <task id="LOCAL-00021" summary="today class">
+      <created>1716013396507</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1716013396507</updated>
+    </task>
+    <task id="LOCAL-00022" summary="today class">
+      <created>1716013401547</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1716013401547</updated>
+    </task>
+    <task id="LOCAL-00023" summary="today class">
+      <created>1716013408685</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1716013408685</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
