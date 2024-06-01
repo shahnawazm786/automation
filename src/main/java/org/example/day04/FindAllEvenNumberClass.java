@@ -6,7 +6,7 @@ public class FindAllEvenNumberClass {
     // % reminder operator
     // number%2==0
     public static void main(String[] args) {
-        int number=1;
+        int number=60;
         while (number<=100){
             //System.out.print(number+"\t");
             if(number%2==0){
