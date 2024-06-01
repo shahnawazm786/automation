@@ -14,5 +14,6 @@ public class CheckEvenNumberClass {
         String expr=(num%2==0) ? num+"\tis Even Number and Reminder\t" + num%2 : num+"\t is not Even Number and Reminder"+num%2;
         System.out.println("Capture in expr variable");
         System.out.println(expr);
+
     }
 }
