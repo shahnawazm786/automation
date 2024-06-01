@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="Ternary">
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="switch case">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day04/FindAllEvenNumberClass.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day04/PrintNumberClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/day04/CheckEvenNumberClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day04/CheckEvenNumberClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/day04/WhileLoopClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day04/WhileLoopClass.java" afterDir="false" />
     </list>
@@ -392,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1717216583387</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="switch case">
+      <created>1717218481891</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1717218481891</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,7 +417,8 @@
     <MESSAGE value="automation class" />
     <MESSAGE value="if" />
     <MESSAGE value="Ternary" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ternary" />
+    <MESSAGE value="switch case" />
+    <option name="LAST_COMMIT_MESSAGE" value="switch case" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
