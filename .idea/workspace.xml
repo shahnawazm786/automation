@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="switch case">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day04/FindAllEvenNumberClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day04/PrintNumberClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/day04/CheckEvenNumberClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day04/CheckEvenNumberClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/day04/WhileLoopClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day04/WhileLoopClass.java" afterDir="false" />
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="Loop">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/day04/FindAllEvenNumberClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day04/FindAllEvenNumberClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -398,7 +396,42 @@
       <option name="project" value="LOCAL" />
       <updated>1717218481891</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Loop">
+      <created>1717218491293</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1717218491293</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Loop">
+      <created>1717218496343</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1717218496343</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Loop">
+      <created>1717218502720</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1717218502720</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Loop">
+      <created>1717218507982</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1717218507982</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Loop">
+      <created>1717218521484</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1717218521484</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -418,7 +451,8 @@
     <MESSAGE value="if" />
     <MESSAGE value="Ternary" />
     <MESSAGE value="switch case" />
-    <option name="LAST_COMMIT_MESSAGE" value="switch case" />
+    <MESSAGE value="Loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
