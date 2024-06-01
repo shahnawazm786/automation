@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="if">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day04/CheckEvenNumberClass.java" afterDir="false" />
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="Ternary">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day04/SwitchCaseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day04/WhileLoopClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -354,7 +355,21 @@
       <option name="project" value="LOCAL" />
       <updated>1716660004287</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="if">
+      <created>1717213782808</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1717213782808</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Ternary">
+      <created>1717213796404</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1717213796404</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -372,6 +387,7 @@
     <MESSAGE value="today class" />
     <MESSAGE value="automation class" />
     <MESSAGE value="if" />
-    <option name="LAST_COMMIT_MESSAGE" value="if" />
+    <MESSAGE value="Ternary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ternary" />
   </component>
 </project>
