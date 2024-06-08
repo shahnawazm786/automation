@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="Loop">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day06/StringMethodCharAtExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day06/StringMethodConcatExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day06/StringMethodContainsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day06/StringMethodContainsIgnoreCaseExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day06/StringMethodEndsWithExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day06/StringMethodLengthExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day06/WordCountInterviewExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day06/StringMethodEqualExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day06/StringMethodIgnoreEqualsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day06/StringMethodIndexOfExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day06/StringMethodIsEmptyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day06/StringMethodJoinExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day06/StringMethodLastIndexOfExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day06/StringMethodLowerAndUpperExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day06/StringMethodReaplaceAndReplaceAllExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day06/StringMethodSplitExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day06/StringMethodSubStringTrimStratsWithExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,62 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00016" summary="today class">
-      <created>1716013357710</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1716013357710</updated>
-    </task>
-    <task id="LOCAL-00017" summary="today class">
-      <created>1716013366411</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1716013366411</updated>
-    </task>
-    <task id="LOCAL-00018" summary="today class">
-      <created>1716013374078</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1716013374078</updated>
-    </task>
-    <task id="LOCAL-00019" summary="today class">
-      <created>1716013382029</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1716013382029</updated>
-    </task>
-    <task id="LOCAL-00020" summary="today class">
-      <created>1716013388452</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1716013388452</updated>
-    </task>
-    <task id="LOCAL-00021" summary="today class">
-      <created>1716013396507</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1716013396507</updated>
-    </task>
-    <task id="LOCAL-00022" summary="today class">
-      <created>1716013401547</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1716013401547</updated>
-    </task>
-    <task id="LOCAL-00023" summary="today class">
-      <created>1716013408685</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1716013408685</updated>
     </task>
     <task id="LOCAL-00024" summary="today class">
       <created>1716085826835</created>
@@ -479,7 +426,63 @@
       <option name="project" value="LOCAL" />
       <updated>1717817428689</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Loop">
+      <created>1717820850529</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1717820850529</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Loop">
+      <created>1717820854465</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1717820854465</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Loop">
+      <created>1717820860226</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1717820860227</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Loop">
+      <created>1717820865308</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1717820865308</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Loop">
+      <created>1717820870433</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1717820870433</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Loop">
+      <created>1717820874085</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1717820874085</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Loop">
+      <created>1717820880292</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1717820880292</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Loop">
+      <created>1717820883960</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1717820883960</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
