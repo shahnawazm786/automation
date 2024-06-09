@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="String Method">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day07/AddValueIntoTheArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day07/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day07/FinalStaticKeywordWithVariableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day07/GetterSetterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day07/GetterSetterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day07/IntegerArraysExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day07/PrivateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day07/PrivateVariableAccessibleExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day07/StaticVariableInNoStaticMethodExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day07/StringMethodSplitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day07/session02/AccessModifierExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="String Method" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,90 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Ternary">
-      <created>1717216579575</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1717216579575</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Ternary">
-      <created>1717216583387</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1717216583387</updated>
-    </task>
-    <task id="LOCAL-00038" summary="switch case">
-      <created>1717218481891</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1717218481891</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Loop">
-      <created>1717218491293</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1717218491293</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Loop">
-      <created>1717218496343</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1717218496343</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Loop">
-      <created>1717218502720</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1717218502720</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Loop">
-      <created>1717218507982</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1717218507982</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Loop">
-      <created>1717218521484</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1717218521484</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Loop">
-      <created>1717218737718</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1717218737718</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Loop">
-      <created>1717218748508</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1717218748508</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Loop">
-      <created>1717219137501</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1717219137501</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Loop">
-      <created>1717299033164</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1717299033164</updated>
     </task>
     <task id="LOCAL-00048" summary="Loop">
       <created>1717305686297</created>
@@ -483,7 +386,91 @@
       <option name="project" value="LOCAL" />
       <updated>1717905801123</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="String Method">
+      <created>1717912022231</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1717912022231</updated>
+    </task>
+    <task id="LOCAL-00086" summary="String Method">
+      <created>1717912027539</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1717912027539</updated>
+    </task>
+    <task id="LOCAL-00087" summary="String Method">
+      <created>1717912032178</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1717912032178</updated>
+    </task>
+    <task id="LOCAL-00088" summary="String Method">
+      <created>1717912036643</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1717912036643</updated>
+    </task>
+    <task id="LOCAL-00089" summary="String Method">
+      <created>1717912041070</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1717912041070</updated>
+    </task>
+    <task id="LOCAL-00090" summary="String Method">
+      <created>1717912048018</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1717912048019</updated>
+    </task>
+    <task id="LOCAL-00091" summary="String Method">
+      <created>1717912054343</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1717912054343</updated>
+    </task>
+    <task id="LOCAL-00092" summary="String Method">
+      <created>1717912058170</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1717912058170</updated>
+    </task>
+    <task id="LOCAL-00093" summary="String Method">
+      <created>1717912065048</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1717912065048</updated>
+    </task>
+    <task id="LOCAL-00094" summary="String Method">
+      <created>1717912070118</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1717912070118</updated>
+    </task>
+    <task id="LOCAL-00095" summary="String Method">
+      <created>1717912073916</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1717912073916</updated>
+    </task>
+    <task id="LOCAL-00096" summary="String Method">
+      <created>1717912078730</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1717912078730</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
