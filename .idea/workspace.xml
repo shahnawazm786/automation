@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="String Method" />
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="Inheritance">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/java08/singleinheritance/SplendorClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/java08/singleinheritance/ViechleClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +46,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GetterSetterDemo">
+  <component name="RunManager" selected="Application.SplendorClass">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.day05.Demo" />
       <module name="automation" />
@@ -95,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Session_02_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day03.Session_02_01" />
+    <configuration name="SplendorClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.java08.singleinheritance.SplendorClass" />
       <module name="automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day03.*" />
+          <option name="PATTERN" value="org.example.java08.singleinheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SplendorClass" />
         <item itemvalue="Application.GetterSetterDemo" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.NestedForLoopExample" />
         <item itemvalue="Application.Session_01_01" />
-        <item itemvalue="Application.Session_02_01" />
       </list>
     </recent_temporary>
   </component>
@@ -126,90 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Loop">
-      <created>1717305694248</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1717305694248</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Loop">
-      <created>1717305699896</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1717305699896</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Loop">
-      <created>1717305704998</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1717305704999</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Loop">
-      <created>1717305708803</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1717305708803</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Loop">
-      <created>1717305713481</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1717305713481</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Loop">
-      <created>1717305718363</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1717305718363</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Loop">
-      <created>1717305723523</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1717305723523</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Loop">
-      <created>1717305728834</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1717305728834</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Loop">
-      <created>1717305733519</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1717305733519</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Loop">
-      <created>1717305740096</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1717305740096</updated>
-    </task>
-    <task id="LOCAL-00059" summary="Loop">
-      <created>1717305745835</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1717305745836</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Loop">
-      <created>1717305749778</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1717305749778</updated>
     </task>
     <task id="LOCAL-00061" summary="Loop">
       <created>1717306665849</created>
@@ -470,7 +390,91 @@
       <option name="project" value="LOCAL" />
       <updated>1717950033624</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="String Method">
+      <created>1718421892481</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1718421892481</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Inheritance">
+      <created>1718424946657</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1718424946657</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Inheritance">
+      <created>1718424950488</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1718424950488</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Inheritance">
+      <created>1718424953770</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1718424953770</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Inheritance">
+      <created>1718424957050</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1718424957050</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Inheritance">
+      <created>1718424960601</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1718424960601</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Inheritance">
+      <created>1718424964591</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1718424964591</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Inheritance">
+      <created>1718424968379</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1718424968379</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Inheritance">
+      <created>1718424971833</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1718424971833</updated>
+    </task>
+    <task id="LOCAL-00107" summary="Inheritance">
+      <created>1718424975552</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1718424975552</updated>
+    </task>
+    <task id="LOCAL-00108" summary="Inheritance">
+      <created>1718424979786</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1718424979786</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Inheritance">
+      <created>1718424984526</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1718424984526</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,7 +496,8 @@
     <MESSAGE value="switch case" />
     <MESSAGE value="Loop" />
     <MESSAGE value="String Method" />
-    <option name="LAST_COMMIT_MESSAGE" value="String Method" />
+    <MESSAGE value="Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
