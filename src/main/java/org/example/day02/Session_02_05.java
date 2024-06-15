@@ -10,6 +10,7 @@ public class Session_02_05 {
         int y=x++; // assigment then increment
         System.out.println(x);//101
         System.out.println(y);//100
+
         // Pre increment
         int z=100;
         System.out.println(z);

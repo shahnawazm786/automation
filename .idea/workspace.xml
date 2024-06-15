@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="Blinkit">
+
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="String Method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/day01/Blinkit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day01/Blinkit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/day02/Session_02_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day02/Session_02_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/day04/PrintNumberClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day04/PrintNumberClass.java" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +36,10 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2gLlUHiknjIiIXzpviLHHsgh1Eh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,12 +48,39 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Blinkit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckEvenNumberClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindAllEvenNumberClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintNumberClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrivateDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrivateVariableAccessibleExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Session_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Session_02_02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Session_02_04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Session_02_05.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/clone_automation/automation&quot;
   }
 }</component>
-  <component name="RunManager">
+
+  <component name="RunManager" selected="Application.Blinkit">
+    <configuration name="Blinkit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day01.Blinkit" />
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.day05.Demo" />
       <module name="automation" />
@@ -98,22 +133,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplendorClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.java08.singleinheritance.SplendorClass" />
-      <module name="automation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.java08.singleinheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SplendorClass" />
+        <item itemvalue="Application.Blinkit" />
+
         <item itemvalue="Application.GetterSetterDemo" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.NestedForLoopExample" />
@@ -546,6 +570,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/day04/WhileLoopClass.java</url>
           <line>23</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/day02/Session_02_05.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
