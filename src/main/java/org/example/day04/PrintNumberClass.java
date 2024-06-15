@@ -10,6 +10,7 @@ public class PrintNumberClass {
         int ctr=1;
         while(ctr<=100){
             System.out.print(ctr+"\t");
+            System.out.println();
             //ctr++;
             ctr=ctr+1;
         }
