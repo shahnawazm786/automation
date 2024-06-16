@@ -1,4 +1,4 @@
-package org.example.java08.heirarchical;
+package org.example.day08.heirarchical;
 
 public abstract class Loan extends Account {
     double rate_of_interest=0.10;
