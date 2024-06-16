@@ -1,4 +1,4 @@
-package org.example.java08.heirarchical;
+package org.example.day08.heirarchical;
 
 public class Bank extends  Loan {
     void BankName(){
