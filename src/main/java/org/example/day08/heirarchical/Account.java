@@ -1,4 +1,4 @@
-package org.example.java08.heirarchical;
+package org.example.day08.heirarchical;
 
 public class Account {
     String custName;
