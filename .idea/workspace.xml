@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="Blinkit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/extra/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/extra/Interface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/extra/InterfaceClasss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/extra/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/extra/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="Interface example" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,48 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00076" summary="Loop">
-      <created>1717823243082</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1717823243082</updated>
-    </task>
-    <task id="LOCAL-00077" summary="Loop">
-      <created>1717823249872</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1717823249872</updated>
-    </task>
-    <task id="LOCAL-00078" summary="Loop">
-      <created>1717823253919</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1717823253919</updated>
-    </task>
-    <task id="LOCAL-00079" summary="Loop">
-      <created>1717823260715</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1717823260715</updated>
-    </task>
-    <task id="LOCAL-00080" summary="Loop">
-      <created>1717823266317</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1717823266317</updated>
-    </task>
-    <task id="LOCAL-00081" summary="Loop">
-      <created>1717823273226</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1717823273226</updated>
     </task>
     <task id="LOCAL-00082" summary="Loop">
       <created>1717823278381</created>
@@ -478,7 +429,49 @@
       <option name="project" value="LOCAL" />
       <updated>1718507252854</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="Interface example">
+      <created>1718507600491</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1718507600491</updated>
+    </task>
+    <task id="LOCAL-00126" summary="Interface example">
+      <created>1718507605203</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1718507605203</updated>
+    </task>
+    <task id="LOCAL-00127" summary="Interface example">
+      <created>1718507627869</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1718507627869</updated>
+    </task>
+    <task id="LOCAL-00128" summary="Interface example">
+      <created>1718507631722</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1718507631723</updated>
+    </task>
+    <task id="LOCAL-00129" summary="Interface example">
+      <created>1718507637787</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1718507637787</updated>
+    </task>
+    <task id="LOCAL-00130" summary="Interface example">
+      <created>1718507642040</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1718507642040</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -532,7 +525,8 @@
     <MESSAGE value="String Method" />
     <MESSAGE value="Inheritance" />
     <MESSAGE value="Blinkit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Blinkit" />
+    <MESSAGE value="Interface example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interface example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
