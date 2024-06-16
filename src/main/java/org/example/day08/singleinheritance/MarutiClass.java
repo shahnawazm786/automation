@@ -1,4 +1,4 @@
-package org.example.java08.singleinheritance;
+package org.example.day08.singleinheritance;
 
 public class MarutiClass extends ViechleClass{
     public double Eclerate(int speed){
