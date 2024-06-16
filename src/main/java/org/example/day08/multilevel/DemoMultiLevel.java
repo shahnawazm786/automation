@@ -1,4 +1,4 @@
-package org.example.java08.multilevel;
+package org.example.day08.multilevel;
 
 public class DemoMultiLevel {
     public static void main(String[] args) {
