@@ -1,4 +1,4 @@
-package org.example.java08.singleinheritance;
+package org.example.day08.singleinheritance;
 
 public class SingleInhtiranceAccess {
     public static void main(String[] args) {
