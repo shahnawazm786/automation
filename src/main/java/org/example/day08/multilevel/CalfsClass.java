@@ -1,4 +1,4 @@
-package org.example.java08.multilevel;
+package org.example.day08.multilevel;
 
 public class CalfsClass extends CowClass{
     void DrinkMilk(){
