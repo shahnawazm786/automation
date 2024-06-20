@@ -128,13 +128,6 @@
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
     </task>
-    <task id="LOCAL-00117" summary="Inheritance">
-      <created>1718438816156</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1718438816156</updated>
-    </task>
     <task id="LOCAL-00118" summary="Blinkit">
       <created>1718438991739</created>
       <option name="number" value="00118" />
@@ -471,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718518903477</updated>
     </task>
-    <option name="localTasksCounter" value="166" />
+    <task id="LOCAL-00166" summary="Interface example">
+      <created>1718518997840</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1718518997840</updated>
+    </task>
+    <option name="localTasksCounter" value="167" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
