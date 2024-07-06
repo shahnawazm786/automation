@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="Interface example" />
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="Interface example">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day11/trycatchfinally/ThrowExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day11/trycatchfinally/TryCatchFinally01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day11/trycatchfinally/TryCatchFinallyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day12/AgeExceptionCustomeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day12/AgeExceptionHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day12/DemoCustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day12/DemoCustomExceptionClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day12/ExceptionsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day12/ThrowExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day12/ThrowsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exelfilehandling/ExcelReadingExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/others/Inheritance" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/others/Inheritance" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +38,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,13 +59,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ThrowsExample">
-    <configuration name="DemoInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day09.abstraction.DemoInterface" />
+  <component name="RunManager">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day11.trycatchfinally.Demo" />
       <module name="automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day09.abstraction.*" />
+          <option name="PATTERN" value="org.example.day11.trycatchfinally.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extra.Test2" />
+    <configuration name="DemoInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day09.abstraction.DemoInterface" />
       <module name="automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="extra.*" />
+          <option name="PATTERN" value="org.example.day09.abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.ThrowsExample" />
         <item itemvalue="Application.demo" />
         <item itemvalue="Application.DemoInterface" />
         <item itemvalue="Application.TestHeirarchical" />
-        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -127,27 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00166" summary="Interface example">
-      <created>1718518997840</created>
-      <option name="number" value="00166" />
-      <option name="presentableId" value="LOCAL-00166" />
-      <option name="project" value="LOCAL" />
-      <updated>1718518997840</updated>
-    </task>
-    <task id="LOCAL-00167" summary="Interface example">
-      <created>1718852678026</created>
-      <option name="number" value="00167" />
-      <option name="presentableId" value="LOCAL-00167" />
-      <option name="project" value="LOCAL" />
-      <updated>1718852678028</updated>
-    </task>
-    <task id="LOCAL-00168" summary="Interface example">
-      <created>1718859340069</created>
-      <option name="number" value="00168" />
-      <option name="presentableId" value="LOCAL-00168" />
-      <option name="project" value="LOCAL" />
-      <updated>1718859340070</updated>
     </task>
     <task id="LOCAL-00169" summary="Interface example">
       <created>1718937769034</created>
@@ -471,7 +466,28 @@
       <option name="project" value="LOCAL" />
       <updated>1719113638861</updated>
     </task>
-    <option name="localTasksCounter" value="215" />
+    <task id="LOCAL-00215" summary="Interface example">
+      <created>1719113650230</created>
+      <option name="number" value="00215" />
+      <option name="presentableId" value="LOCAL-00215" />
+      <option name="project" value="LOCAL" />
+      <updated>1719113650230</updated>
+    </task>
+    <task id="LOCAL-00216" summary="Interface example">
+      <created>1719117471137</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1719117471137</updated>
+    </task>
+    <task id="LOCAL-00217" summary="Interface example">
+      <created>1719117482669</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1719117482669</updated>
+    </task>
+    <option name="localTasksCounter" value="218" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
