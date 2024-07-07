@@ -1,4 +1,4 @@
-package org.example.exelfilehandling;
+package org.example.day12.exelfilehandling;
 
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
@@ -44,6 +44,8 @@ public class ExcelReadingExample {
 
             }
         }
+
+        System.out.println(sheet.getRow(0).getCell(10));
 
 
     }
