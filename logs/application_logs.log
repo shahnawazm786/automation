@@ -1,0 +1,18 @@
+2024-07-07 10:17:04 [main] INFO  org.example.day13.propetiesdata.ReadingDataFromPropertiesFile - Properties file object created
+2024-07-07 10:17:04 [main] INFO  org.example.day13.propetiesdata.ReadingDataFromPropertiesFile - Reading data from config file
+2024-07-07 10:17:04 [main] INFO  org.example.day13.propetiesdata.ReadingDataFromPropertiesFile - data loaded into the properties object
+2024-07-07 10:17:04 [main] INFO  org.example.day13.propetiesdata.ReadingDataFromPropertiesFile - Print the user name
+2024-07-07 10:17:04 [main] INFO  org.example.day13.propetiesdata.ReadingDataFromPropertiesFile - admin
+2024-07-07 10:17:04 [main] INFO  org.example.day13.propetiesdata.ReadingDataFromPropertiesFile - Print the password
+2024-07-07 10:17:04 [main] INFO  org.example.day13.propetiesdata.ReadingDataFromPropertiesFile - admin@yahoo.com
+2024-07-07 10:17:04 [main] INFO  org.example.day13.propetiesdata.ReadingDataFromPropertiesFile - data clearing........
+2024-07-07 10:17:04 [main] INFO  org.example.day13.propetiesdata.ReadingDataFromPropertiesFile - Data cleard.....
+2024-07-07 10:19:18 [main] INFO  org.example.day13.propetiesdata.ReadingDataFromPropertiesFile - Properties file object created
+2024-07-07 10:19:18 [main] INFO  org.example.day13.propetiesdata.ReadingDataFromPropertiesFile - Reading data from config file
+2024-07-07 10:19:18 [main] INFO  org.example.day13.propetiesdata.ReadingDataFromPropertiesFile - data loaded into the properties object
+2024-07-07 10:19:18 [main] INFO  org.example.day13.propetiesdata.ReadingDataFromPropertiesFile - Print the user name
+2024-07-07 10:19:18 [main] INFO  org.example.day13.propetiesdata.ReadingDataFromPropertiesFile - admin
+2024-07-07 10:19:18 [main] INFO  org.example.day13.propetiesdata.ReadingDataFromPropertiesFile - Print the password
+2024-07-07 10:19:18 [main] INFO  org.example.day13.propetiesdata.ReadingDataFromPropertiesFile - admin@yahoo.com
+2024-07-07 10:19:18 [main] INFO  org.example.day13.propetiesdata.ReadingDataFromPropertiesFile - data clearing........
+2024-07-07 10:19:18 [main] INFO  org.example.day13.propetiesdata.ReadingDataFromPropertiesFile - Data cleard.....
