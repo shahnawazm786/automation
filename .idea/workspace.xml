@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="exception and excel operations">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day13/ReadingDataFromParticularExcelCell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day13/WritingDataInfoExcelFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day13/propetiesdata/ReadingDataFromPropertiesFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exelfilehandling/ExcelReadingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day12/exelfilehandling/ExcelReadingExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/demo.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/demo.xlsx" afterDir="false" />
-    </list>
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="excel and properties file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,83 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00184" summary="Interface example">
-      <created>1719033312741</created>
-      <option name="number" value="00184" />
-      <option name="presentableId" value="LOCAL-00184" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033312741</updated>
-    </task>
-    <task id="LOCAL-00185" summary="Interface example">
-      <created>1719033319454</created>
-      <option name="number" value="00185" />
-      <option name="presentableId" value="LOCAL-00185" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033319454</updated>
-    </task>
-    <task id="LOCAL-00186" summary="Interface example">
-      <created>1719033340751</created>
-      <option name="number" value="00186" />
-      <option name="presentableId" value="LOCAL-00186" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033340751</updated>
-    </task>
-    <task id="LOCAL-00187" summary="Interface example">
-      <created>1719033345249</created>
-      <option name="number" value="00187" />
-      <option name="presentableId" value="LOCAL-00187" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033345249</updated>
-    </task>
-    <task id="LOCAL-00188" summary="Interface example">
-      <created>1719033349589</created>
-      <option name="number" value="00188" />
-      <option name="presentableId" value="LOCAL-00188" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033349589</updated>
-    </task>
-    <task id="LOCAL-00189" summary="Interface example">
-      <created>1719033354509</created>
-      <option name="number" value="00189" />
-      <option name="presentableId" value="LOCAL-00189" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033354509</updated>
-    </task>
-    <task id="LOCAL-00190" summary="Interface example">
-      <created>1719033360432</created>
-      <option name="number" value="00190" />
-      <option name="presentableId" value="LOCAL-00190" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033360432</updated>
-    </task>
-    <task id="LOCAL-00191" summary="Interface example">
-      <created>1719033363885</created>
-      <option name="number" value="00191" />
-      <option name="presentableId" value="LOCAL-00191" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033363885</updated>
-    </task>
-    <task id="LOCAL-00192" summary="Interface example">
-      <created>1719033367916</created>
-      <option name="number" value="00192" />
-      <option name="presentableId" value="LOCAL-00192" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033367916</updated>
-    </task>
-    <task id="LOCAL-00193" summary="Interface example">
-      <created>1719033374077</created>
-      <option name="number" value="00193" />
-      <option name="presentableId" value="LOCAL-00193" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033374077</updated>
-    </task>
-    <task id="LOCAL-00194" summary="Interface example">
-      <created>1719033377781</created>
-      <option name="number" value="00194" />
-      <option name="presentableId" value="LOCAL-00194" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033377781</updated>
     </task>
     <task id="LOCAL-00195" summary="Interface example">
       <created>1719033383817</created>
@@ -481,7 +394,84 @@
       <option name="project" value="LOCAL" />
       <updated>1720242842130</updated>
     </task>
-    <option name="localTasksCounter" value="233" />
+    <task id="LOCAL-00233" summary="exception and excel operations">
+      <created>1720328976237</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1720328976238</updated>
+    </task>
+    <task id="LOCAL-00234" summary="excel and properties file">
+      <created>1720328997824</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1720328997824</updated>
+    </task>
+    <task id="LOCAL-00235" summary="excel and properties file">
+      <created>1720329004335</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1720329004335</updated>
+    </task>
+    <task id="LOCAL-00236" summary="excel and properties file">
+      <created>1720329008465</created>
+      <option name="number" value="00236" />
+      <option name="presentableId" value="LOCAL-00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1720329008465</updated>
+    </task>
+    <task id="LOCAL-00237" summary="excel and properties file">
+      <created>1720329012969</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1720329012969</updated>
+    </task>
+    <task id="LOCAL-00238" summary="excel and properties file">
+      <created>1720329020593</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1720329020593</updated>
+    </task>
+    <task id="LOCAL-00239" summary="excel and properties file">
+      <created>1720329026082</created>
+      <option name="number" value="00239" />
+      <option name="presentableId" value="LOCAL-00239" />
+      <option name="project" value="LOCAL" />
+      <updated>1720329026082</updated>
+    </task>
+    <task id="LOCAL-00240" summary="excel and properties file">
+      <created>1720329029997</created>
+      <option name="number" value="00240" />
+      <option name="presentableId" value="LOCAL-00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1720329029997</updated>
+    </task>
+    <task id="LOCAL-00241" summary="excel and properties file">
+      <created>1720329036667</created>
+      <option name="number" value="00241" />
+      <option name="presentableId" value="LOCAL-00241" />
+      <option name="project" value="LOCAL" />
+      <updated>1720329036667</updated>
+    </task>
+    <task id="LOCAL-00242" summary="excel and properties file">
+      <created>1720329042964</created>
+      <option name="number" value="00242" />
+      <option name="presentableId" value="LOCAL-00242" />
+      <option name="project" value="LOCAL" />
+      <updated>1720329042964</updated>
+    </task>
+    <task id="LOCAL-00243" summary="excel and properties file">
+      <created>1720329047656</created>
+      <option name="number" value="00243" />
+      <option name="presentableId" value="LOCAL-00243" />
+      <option name="project" value="LOCAL" />
+      <updated>1720329047656</updated>
+    </task>
+    <option name="localTasksCounter" value="244" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -537,7 +527,8 @@
     <MESSAGE value="Blinkit" />
     <MESSAGE value="Interface example" />
     <MESSAGE value="exception and excel operations" />
-    <option name="LAST_COMMIT_MESSAGE" value="exception and excel operations" />
+    <MESSAGE value="excel and properties file" />
+    <option name="LAST_COMMIT_MESSAGE" value="excel and properties file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
