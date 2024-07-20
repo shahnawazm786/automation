@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="excel and properties file" />
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="excel and properties file">
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/ListInterFaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/ListInterfaceExample01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/ListInterfaceExample02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/ListInterfaceExample03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,13 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00195" summary="Interface example">
-      <created>1719033383817</created>
-      <option name="number" value="00195" />
-      <option name="presentableId" value="LOCAL-00195" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033383818</updated>
     </task>
     <task id="LOCAL-00196" summary="Interface example">
       <created>1719033389524</created>
@@ -471,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720329047656</updated>
     </task>
-    <option name="localTasksCounter" value="244" />
+    <task id="LOCAL-00244" summary="excel and properties file">
+      <created>1721485999494</created>
+      <option name="number" value="00244" />
+      <option name="presentableId" value="LOCAL-00244" />
+      <option name="project" value="LOCAL" />
+      <updated>1721485999494</updated>
+    </task>
+    <option name="localTasksCounter" value="245" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
