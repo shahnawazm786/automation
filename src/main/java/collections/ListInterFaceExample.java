@@ -20,5 +20,7 @@ public class ListInterFaceExample {
         System.out.println("Removing 300 by index");
         marks.remove(2);
         System.out.println(marks);
+        marks.get(0);// return the value of 0 index
+
     }
 }
