@@ -16,8 +16,7 @@ public class ListInterfaceExample03 {
         for(int i=0;i<num.length;i++){
             System.out.println(num[i]);
         }
-
-
+        Arrays.stream(num).asDoubleStream().forEach(a-> System.out.println(a));
 
     }
 }
