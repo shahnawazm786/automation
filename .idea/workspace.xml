@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="collection framework">
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/CustomClassIntoList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/ListInterfaceIteratorInterfaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/sets/SetInterfaceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/ListInterFaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/ListInterFaceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/ListInterfaceExample03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/ListInterfaceExample03.java" afterDir="false" />
-    </list>
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="collection framework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,55 +127,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00201" summary="Interface example">
-      <created>1719033418583</created>
-      <option name="number" value="00201" />
-      <option name="presentableId" value="LOCAL-00201" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033418583</updated>
-    </task>
-    <task id="LOCAL-00202" summary="Interface example">
-      <created>1719033422508</created>
-      <option name="number" value="00202" />
-      <option name="presentableId" value="LOCAL-00202" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033422508</updated>
-    </task>
-    <task id="LOCAL-00203" summary="Interface example">
-      <created>1719033427323</created>
-      <option name="number" value="00203" />
-      <option name="presentableId" value="LOCAL-00203" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033427323</updated>
-    </task>
-    <task id="LOCAL-00204" summary="Interface example">
-      <created>1719033432091</created>
-      <option name="number" value="00204" />
-      <option name="presentableId" value="LOCAL-00204" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033432091</updated>
-    </task>
-    <task id="LOCAL-00205" summary="Interface example">
-      <created>1719033438200</created>
-      <option name="number" value="00205" />
-      <option name="presentableId" value="LOCAL-00205" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033438200</updated>
-    </task>
-    <task id="LOCAL-00206" summary="Interface example">
-      <created>1719033444075</created>
-      <option name="number" value="00206" />
-      <option name="presentableId" value="LOCAL-00206" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033444075</updated>
-    </task>
-    <task id="LOCAL-00207" summary="Interface example">
-      <created>1719033447770</created>
-      <option name="number" value="00207" />
-      <option name="presentableId" value="LOCAL-00207" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033447770</updated>
     </task>
     <task id="LOCAL-00208" summary="Interface example">
       <created>1719033452411</created>
@@ -479,7 +422,56 @@
       <option name="project" value="LOCAL" />
       <updated>1721488857989</updated>
     </task>
-    <option name="localTasksCounter" value="250" />
+    <task id="LOCAL-00250" summary="collection framework">
+      <created>1721491389487</created>
+      <option name="number" value="00250" />
+      <option name="presentableId" value="LOCAL-00250" />
+      <option name="project" value="LOCAL" />
+      <updated>1721491389487</updated>
+    </task>
+    <task id="LOCAL-00251" summary="collection framework">
+      <created>1721491399676</created>
+      <option name="number" value="00251" />
+      <option name="presentableId" value="LOCAL-00251" />
+      <option name="project" value="LOCAL" />
+      <updated>1721491399676</updated>
+    </task>
+    <task id="LOCAL-00252" summary="collection framework">
+      <created>1721491409033</created>
+      <option name="number" value="00252" />
+      <option name="presentableId" value="LOCAL-00252" />
+      <option name="project" value="LOCAL" />
+      <updated>1721491409033</updated>
+    </task>
+    <task id="LOCAL-00253" summary="collection framework">
+      <created>1721491450943</created>
+      <option name="number" value="00253" />
+      <option name="presentableId" value="LOCAL-00253" />
+      <option name="project" value="LOCAL" />
+      <updated>1721491450943</updated>
+    </task>
+    <task id="LOCAL-00254" summary="collection framework">
+      <created>1721491458569</created>
+      <option name="number" value="00254" />
+      <option name="presentableId" value="LOCAL-00254" />
+      <option name="project" value="LOCAL" />
+      <updated>1721491458569</updated>
+    </task>
+    <task id="LOCAL-00255" summary="collection framework">
+      <created>1721491466889</created>
+      <option name="number" value="00255" />
+      <option name="presentableId" value="LOCAL-00255" />
+      <option name="project" value="LOCAL" />
+      <updated>1721491466889</updated>
+    </task>
+    <task id="LOCAL-00256" summary="collection framework">
+      <created>1721491472754</created>
+      <option name="number" value="00256" />
+      <option name="presentableId" value="LOCAL-00256" />
+      <option name="project" value="LOCAL" />
+      <updated>1721491472754</updated>
+    </task>
+    <option name="localTasksCounter" value="257" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
