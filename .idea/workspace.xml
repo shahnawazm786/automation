@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="excel and properties file">
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/ListInterFaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/ListInterfaceExample01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/ListInterfaceExample02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/ListInterfaceExample03.java" afterDir="false" />
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="collection framework">
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/CustomClassIntoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/ListInterfaceIteratorInterfaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/sets/SetInterfaceExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/ListInterFaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/ListInterFaceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/ListInterfaceExample03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/ListInterfaceExample03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,41 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00196" summary="Interface example">
-      <created>1719033389524</created>
-      <option name="number" value="00196" />
-      <option name="presentableId" value="LOCAL-00196" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033389524</updated>
-    </task>
-    <task id="LOCAL-00197" summary="Interface example">
-      <created>1719033396487</created>
-      <option name="number" value="00197" />
-      <option name="presentableId" value="LOCAL-00197" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033396487</updated>
-    </task>
-    <task id="LOCAL-00198" summary="Interface example">
-      <created>1719033400660</created>
-      <option name="number" value="00198" />
-      <option name="presentableId" value="LOCAL-00198" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033400660</updated>
-    </task>
-    <task id="LOCAL-00199" summary="Interface example">
-      <created>1719033406242</created>
-      <option name="number" value="00199" />
-      <option name="presentableId" value="LOCAL-00199" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033406242</updated>
-    </task>
-    <task id="LOCAL-00200" summary="Interface example">
-      <created>1719033411758</created>
-      <option name="number" value="00200" />
-      <option name="presentableId" value="LOCAL-00200" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033411758</updated>
     </task>
     <task id="LOCAL-00201" summary="Interface example">
       <created>1719033418583</created>
@@ -477,7 +444,42 @@
       <option name="project" value="LOCAL" />
       <updated>1721485999494</updated>
     </task>
-    <option name="localTasksCounter" value="245" />
+    <task id="LOCAL-00245" summary="collection framework">
+      <created>1721488833019</created>
+      <option name="number" value="00245" />
+      <option name="presentableId" value="LOCAL-00245" />
+      <option name="project" value="LOCAL" />
+      <updated>1721488833019</updated>
+    </task>
+    <task id="LOCAL-00246" summary="collection framework">
+      <created>1721488839507</created>
+      <option name="number" value="00246" />
+      <option name="presentableId" value="LOCAL-00246" />
+      <option name="project" value="LOCAL" />
+      <updated>1721488839507</updated>
+    </task>
+    <task id="LOCAL-00247" summary="collection framework">
+      <created>1721488848326</created>
+      <option name="number" value="00247" />
+      <option name="presentableId" value="LOCAL-00247" />
+      <option name="project" value="LOCAL" />
+      <updated>1721488848326</updated>
+    </task>
+    <task id="LOCAL-00248" summary="collection framework">
+      <created>1721488854006</created>
+      <option name="number" value="00248" />
+      <option name="presentableId" value="LOCAL-00248" />
+      <option name="project" value="LOCAL" />
+      <updated>1721488854006</updated>
+    </task>
+    <task id="LOCAL-00249" summary="collection framework">
+      <created>1721488857989</created>
+      <option name="number" value="00249" />
+      <option name="presentableId" value="LOCAL-00249" />
+      <option name="project" value="LOCAL" />
+      <updated>1721488857989</updated>
+    </task>
+    <option name="localTasksCounter" value="250" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -534,7 +536,8 @@
     <MESSAGE value="Interface example" />
     <MESSAGE value="exception and excel operations" />
     <MESSAGE value="excel and properties file" />
-    <option name="LAST_COMMIT_MESSAGE" value="excel and properties file" />
+    <MESSAGE value="collection framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="collection framework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
