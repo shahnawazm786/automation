@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="collection framework">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day15/collections/MapInterfaceExample01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day15/collections/MapInterfaceExample02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day15/collections/MapInterfaceExample03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day15/collections/MapInterfaceExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/FirstSeleniumProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/drivers/chrome/chromedriver-win64/LICENSE.chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/drivers/chrome/chromedriver-win64/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/others/MapInterface" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/others/link" afterDir="false" />
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="selenium framework">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/FirstSeleniumProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/FirstSeleniumProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,83 +136,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00210" summary="Interface example">
-      <created>1719033464949</created>
-      <option name="number" value="00210" />
-      <option name="presentableId" value="LOCAL-00210" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033464949</updated>
-    </task>
-    <task id="LOCAL-00211" summary="Interface example">
-      <created>1719033468785</created>
-      <option name="number" value="00211" />
-      <option name="presentableId" value="LOCAL-00211" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033468785</updated>
-    </task>
-    <task id="LOCAL-00212" summary="Interface example">
-      <created>1719033473864</created>
-      <option name="number" value="00212" />
-      <option name="presentableId" value="LOCAL-00212" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033473864</updated>
-    </task>
-    <task id="LOCAL-00213" summary="Interface example">
-      <created>1719033489124</created>
-      <option name="number" value="00213" />
-      <option name="presentableId" value="LOCAL-00213" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033489124</updated>
-    </task>
-    <task id="LOCAL-00214" summary="Interface example">
-      <created>1719113638861</created>
-      <option name="number" value="00214" />
-      <option name="presentableId" value="LOCAL-00214" />
-      <option name="project" value="LOCAL" />
-      <updated>1719113638861</updated>
-    </task>
-    <task id="LOCAL-00215" summary="Interface example">
-      <created>1719113650230</created>
-      <option name="number" value="00215" />
-      <option name="presentableId" value="LOCAL-00215" />
-      <option name="project" value="LOCAL" />
-      <updated>1719113650230</updated>
-    </task>
-    <task id="LOCAL-00216" summary="Interface example">
-      <created>1719117471137</created>
-      <option name="number" value="00216" />
-      <option name="presentableId" value="LOCAL-00216" />
-      <option name="project" value="LOCAL" />
-      <updated>1719117471137</updated>
-    </task>
-    <task id="LOCAL-00217" summary="Interface example">
-      <created>1719117482669</created>
-      <option name="number" value="00217" />
-      <option name="presentableId" value="LOCAL-00217" />
-      <option name="project" value="LOCAL" />
-      <updated>1719117482669</updated>
-    </task>
-    <task id="LOCAL-00218" summary="exception and excel operations">
-      <created>1720242756850</created>
-      <option name="number" value="00218" />
-      <option name="presentableId" value="LOCAL-00218" />
-      <option name="project" value="LOCAL" />
-      <updated>1720242756850</updated>
-    </task>
-    <task id="LOCAL-00219" summary="exception and excel operations">
-      <created>1720242760773</created>
-      <option name="number" value="00219" />
-      <option name="presentableId" value="LOCAL-00219" />
-      <option name="project" value="LOCAL" />
-      <updated>1720242760773</updated>
-    </task>
-    <task id="LOCAL-00220" summary="exception and excel operations">
-      <created>1720242764941</created>
-      <option name="number" value="00220" />
-      <option name="presentableId" value="LOCAL-00220" />
-      <option name="project" value="LOCAL" />
-      <updated>1720242764941</updated>
     </task>
     <task id="LOCAL-00221" summary="exception and excel operations">
       <created>1720242768785</created>
@@ -489,7 +403,84 @@
       <option name="project" value="LOCAL" />
       <updated>1721570281887</updated>
     </task>
-    <option name="localTasksCounter" value="259" />
+    <task id="LOCAL-00259" summary="collection framework">
+      <created>1721575936412</created>
+      <option name="number" value="00259" />
+      <option name="presentableId" value="LOCAL-00259" />
+      <option name="project" value="LOCAL" />
+      <updated>1721575936412</updated>
+    </task>
+    <task id="LOCAL-00260" summary="collection framework">
+      <created>1721575940117</created>
+      <option name="number" value="00260" />
+      <option name="presentableId" value="LOCAL-00260" />
+      <option name="project" value="LOCAL" />
+      <updated>1721575940117</updated>
+    </task>
+    <task id="LOCAL-00261" summary="collection framework">
+      <created>1721575944146</created>
+      <option name="number" value="00261" />
+      <option name="presentableId" value="LOCAL-00261" />
+      <option name="project" value="LOCAL" />
+      <updated>1721575944146</updated>
+    </task>
+    <task id="LOCAL-00262" summary="collection framework">
+      <created>1721575948145</created>
+      <option name="number" value="00262" />
+      <option name="presentableId" value="LOCAL-00262" />
+      <option name="project" value="LOCAL" />
+      <updated>1721575948145</updated>
+    </task>
+    <task id="LOCAL-00263" summary="collection framework">
+      <created>1721575952666</created>
+      <option name="number" value="00263" />
+      <option name="presentableId" value="LOCAL-00263" />
+      <option name="project" value="LOCAL" />
+      <updated>1721575952666</updated>
+    </task>
+    <task id="LOCAL-00264" summary="selenium framework">
+      <created>1721575962004</created>
+      <option name="number" value="00264" />
+      <option name="presentableId" value="LOCAL-00264" />
+      <option name="project" value="LOCAL" />
+      <updated>1721575962004</updated>
+    </task>
+    <task id="LOCAL-00265" summary="selenium framework">
+      <created>1721575966076</created>
+      <option name="number" value="00265" />
+      <option name="presentableId" value="LOCAL-00265" />
+      <option name="project" value="LOCAL" />
+      <updated>1721575966076</updated>
+    </task>
+    <task id="LOCAL-00266" summary="selenium framework">
+      <created>1721575972447</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1721575972447</updated>
+    </task>
+    <task id="LOCAL-00267" summary="selenium framework">
+      <created>1721575977642</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1721575977642</updated>
+    </task>
+    <task id="LOCAL-00268" summary="selenium framework">
+      <created>1721575981841</created>
+      <option name="number" value="00268" />
+      <option name="presentableId" value="LOCAL-00268" />
+      <option name="project" value="LOCAL" />
+      <updated>1721575981841</updated>
+    </task>
+    <task id="LOCAL-00269" summary="selenium framework">
+      <created>1721575985500</created>
+      <option name="number" value="00269" />
+      <option name="presentableId" value="LOCAL-00269" />
+      <option name="project" value="LOCAL" />
+      <updated>1721575985500</updated>
+    </task>
+    <option name="localTasksCounter" value="270" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -547,7 +538,8 @@
     <MESSAGE value="exception and excel operations" />
     <MESSAGE value="excel and properties file" />
     <MESSAGE value="collection framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="collection framework" />
+    <MESSAGE value="selenium framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="selenium framework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
