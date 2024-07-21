@@ -1,0 +1,48 @@
+Map Interface
+------------------
+Key Value pair data set
+Value - associated with key
+Data Modification by using the key
+HashMap
+Map<K,V> map=new HashMap<K,V>();
+put(K,V)
+EtnrySet - <K,V>
+ Key - String, Integer
+ Key - Unique
+ Key - one null
+ Value - multiple null
+ Value - duplicate
+ Value - Object or Custom Object
+ Roll - Name
+ 1001 - Sachin
+ 1002 - Zaheer
+ 1003 - Shami
+ 1004 - Gangooly
+ 1005 - Pathan
+ 1006 - Pathan
+
+ Source of data - database, excel, json, xml, txt, properties
+ -> database data fetch -> connect database -> fetch record from database
+ -> excel ->
+ --> resources - Web Apps / Mobile Apps Test
+ Fucntions / UI / Integeration
+ Regression ->
+ Amazon Web Site  ->
+ 1. Item catlog -> Item code, Item Description, Item Image, Price, Add Quantity
+ 2. Item search -> Item name, Item Image, Price, Avaibality
+ 3. Item Selection
+ 4. Cart
+ 5. Checkout
+ 6. Login
+ 7. Payment
+ 8. Notification
+ Story/ BR /  of Item Catlog
+ --------------------
+ Test Case -> Positive + Negative
+Sanity -> Minium Blockers -> Customer
+Regression -> 1 . 15 TC (Negative + Positive) - 3 new data  -
+12 (20) -> E2E ->  9 E2E - 90%
+Manual + Automation ->
+ Test Case -> Data Required -> database, excel, json, bdd
+
+
