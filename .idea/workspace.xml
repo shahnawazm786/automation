@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="collection framework" />
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="collection framework">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day15/collections/MapInterfaceExample01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day15/collections/MapInterfaceExample02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day15/collections/MapInterfaceExample03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day15/collections/MapInterfaceExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/FirstSeleniumProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/drivers/chrome/chromedriver-win64/LICENSE.chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/drivers/chrome/chromedriver-win64/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/others/MapInterface" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/others/link" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,13 +48,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/weekly-classes/automation/src/main/resources/drivers/chrome"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\weekly-classes\automation\src\main\resources\drivers\chrome" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.day11.trycatchfinally.Demo" />
@@ -127,13 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00209" summary="Interface example">
-      <created>1719033459103</created>
-      <option name="number" value="00209" />
-      <option name="presentableId" value="LOCAL-00209" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033459103</updated>
     </task>
     <task id="LOCAL-00210" summary="Interface example">
       <created>1719033464949</created>
@@ -471,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1721491690489</updated>
     </task>
-    <option name="localTasksCounter" value="258" />
+    <task id="LOCAL-00258" summary="collection framework">
+      <created>1721570281887</created>
+      <option name="number" value="00258" />
+      <option name="presentableId" value="LOCAL-00258" />
+      <option name="project" value="LOCAL" />
+      <updated>1721570281887</updated>
+    </task>
+    <option name="localTasksCounter" value="259" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
