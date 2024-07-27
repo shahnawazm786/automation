@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="selenium framework">
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/FirstSeleniumProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/FirstSeleniumProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day02/InteractionSeleniumExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day02/LocatorStrategyByIDExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day02/LocatorStrategyCSSClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day02/NavigationSeleniumDriverExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day02/WebElementExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/selenium_web_element.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +26,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -38,26 +45,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/weekly-classes/automation/src/main/resources/drivers/chrome&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/weekly-classes/automation/src/main/resources/drivers/chrome"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\weekly-classes\automation\src\main\resources\drivers\chrome" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day11.trycatchfinally.Demo" />
+  <component name="RunManager" selected="Application.LocatorStrategyByIDExample">
+    <configuration name="InteractionSeleniumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day02.InteractionSeleniumExample" />
       <module name="automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day11.trycatchfinally.*" />
+          <option name="PATTERN" value="selenium.selenium_day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day09.abstraction.DemoInterface" />
+    <configuration name="LocatorStrategyByIDExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day02.LocatorStrategyByIDExample" />
       <module name="automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day09.abstraction.*" />
+          <option name="PATTERN" value="selenium.selenium_day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHeirarchical" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day09.heirarchical.TestHeirarchical" />
+    <configuration name="LocatorStrategyCSSClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day02.LocatorStrategyCSSClassExample" />
       <module name="automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day09.heirarchical.*" />
+          <option name="PATTERN" value="selenium.selenium_day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day10.exceptions.ThrowsExample" />
+    <configuration name="NavigationSeleniumDriverExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day02.NavigationSeleniumDriverExample" />
       <module name="automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day10.exceptions.*" />
+          <option name="PATTERN" value="selenium.selenium_day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day10.constructoroverload.demo" />
+    <configuration name="WebElementExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day02.WebElementExample" />
       <module name="automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day10.constructoroverload.*" />
+          <option name="PATTERN" value="selenium.selenium_day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.ThrowsExample" />
-        <item itemvalue="Application.demo" />
-        <item itemvalue="Application.DemoInterface" />
-        <item itemvalue="Application.TestHeirarchical" />
+        <item itemvalue="Application.LocatorStrategyByIDExample" />
+        <item itemvalue="Application.LocatorStrategyCSSClassExample" />
+        <item itemvalue="Application.WebElementExample" />
+        <item itemvalue="Application.NavigationSeleniumDriverExample" />
+        <item itemvalue="Application.InteractionSeleniumExample" />
       </list>
     </recent_temporary>
   </component>
@@ -135,13 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00223" summary="exception and excel operations">
-      <created>1720242791492</created>
-      <option name="number" value="00223" />
-      <option name="presentableId" value="LOCAL-00223" />
-      <option name="project" value="LOCAL" />
-      <updated>1720242791492</updated>
     </task>
     <task id="LOCAL-00224" summary="exception and excel operations">
       <created>1720242795528</created>
@@ -479,7 +480,14 @@
       <option name="project" value="LOCAL" />
       <updated>1721576241167</updated>
     </task>
-    <option name="localTasksCounter" value="272" />
+    <task id="LOCAL-00272" summary="selenium framework">
+      <created>1722051136429</created>
+      <option name="number" value="00272" />
+      <option name="presentableId" value="LOCAL-00272" />
+      <option name="project" value="LOCAL" />
+      <updated>1722051136430</updated>
+    </task>
+    <option name="localTasksCounter" value="273" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
