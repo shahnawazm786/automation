@@ -9,6 +9,7 @@ public class FirstSeleniumProgram {
         ChromeOptions options=new ChromeOptions();
         options.addArguments("--incognito");
         options.addArguments("--start-maximized");
+        options.addArguments("--allow-remote=*");
         System.setProperty("webdriver.chrome.driver","src\\main\\resources\\drivers\\chrome\\chromedriver-win64\\chromedriver.exe");
         WebDriver driver=new ChromeDriver(options);
         driver.get("https://www.selenium.dev/");
