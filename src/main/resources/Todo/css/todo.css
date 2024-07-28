@@ -1,0 +1,107 @@
+/* button based on https://stackoverflow.com/questions/18920542/draw-an-x-in-css */
+
+ button.destroy {
+     height: 1.5em;
+     width: 2em;
+     background-color: #ffffff;
+     border-radius: 5px;
+     position: relative;
+     margin: 0.5em;
+ }
+
+button.destroy:after {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    content: "\274c";
+    font-size: 1em;
+    color: #FFF;
+    line-height: 1.5em;
+    text-align: center;
+}
+
+section.todoapp {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.5em;
+}
+
+@media only screen and (max-width: 1020px) {
+    section.todoapp {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 1.5em;
+    }
+}
+
+/* create a heading */
+section.todoapp h1{
+    background-color: #B4B6AA;
+    text-align: center;
+}
+
+/* default create a todo list markup to make visible */
+.new-todo-list{
+    background-color: #E7E3EE;
+    font-size: 1.8em;
+    width: 100%;
+}
+
+/* default create a todo markup to make visible */
+.new-todo{
+    background-color: #E7E3EE;
+    font-size: 1.6em;
+    width: 75%;
+    margin-left: 12%;
+    margin-right: auto;
+}
+
+/* the main list of todos view */
+.main{
+    border: gainsboro;
+    border-width: 1px;
+    border-style: dotted;
+    margin: 0.5em;
+    padding: 0.5em;
+    background-color: #F0F0F0;
+}
+
+/* fix bug where buttons started to embed between each other */
+
+div.view{
+    clear:both;
+}
+
+/* indent the label */
+li > div.view > label{
+    margin: 0.5em;
+}
+
+/* strike through todo when complete */
+li.completed label{
+    text-decoration: line-through ;
+
+}
+
+/* move the delete button off to the right */
+button.destroy{
+    float: right;
+}
+
+/* a hover border so delete button is easier to associate with a particular todo */
+li > div.view:hover{
+    border-width: 1px;
+    border-style: dashed;
+}
+
+.login{
+    text-align: center;
+}
+.login button{
+    font-size: 1.5em;
+    margin: 0.5em;
+}
