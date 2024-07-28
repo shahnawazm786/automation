@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="selenium framework">
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day02/InteractionSeleniumExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day02/LocatorStrategyByIDExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day02/LocatorStrategyCSSClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day02/NavigationSeleniumDriverExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day02/WebElementExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/selenium_web_element.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day03/DiffFindElementAndFindElementsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day03/LocatorStartegyPartialLinkExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day03/LocatorStrategyByNameExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day03/LocatorStrategyLinkTextExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day03/LocatorStrategyTagNameExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/XPath" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/selenium_day02/LocatorStrategyByIDExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day02/LocatorStrategyByIDExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +26,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -59,13 +60,13 @@
       <recent name="C:\weekly-classes\automation\src\main\resources\drivers\chrome" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LocatorStrategyByIDExample">
-    <configuration name="InteractionSeleniumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day02.InteractionSeleniumExample" />
+  <component name="RunManager" selected="Application.DiffFindElementAndFindElementsExample">
+    <configuration name="DiffFindElementAndFindElementsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day03.DiffFindElementAndFindElementsExample" />
       <module name="automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selenium.selenium_day02.*" />
+          <option name="PATTERN" value="selenium.selenium_day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocatorStrategyByIDExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day02.LocatorStrategyByIDExample" />
+    <configuration name="LocatorStartegyPartialLinkExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day03.LocatorStartegyPartialLinkExample" />
       <module name="automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selenium.selenium_day02.*" />
+          <option name="PATTERN" value="selenium.selenium_day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocatorStrategyCSSClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day02.LocatorStrategyCSSClassExample" />
+    <configuration name="LocatorStrategyByNameExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day03.LocatorStrategyByNameExample" />
       <module name="automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selenium.selenium_day02.*" />
+          <option name="PATTERN" value="selenium.selenium_day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NavigationSeleniumDriverExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day02.NavigationSeleniumDriverExample" />
+    <configuration name="LocatorStrategyLinkTextExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day03.LocatorStrategyLinkTextExample" />
       <module name="automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selenium.selenium_day02.*" />
+          <option name="PATTERN" value="selenium.selenium_day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebElementExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day02.WebElementExample" />
+    <configuration name="LocatorStrategyTagNameExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day03.LocatorStrategyTagNameExample" />
       <module name="automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selenium.selenium_day02.*" />
+          <option name="PATTERN" value="selenium.selenium_day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LocatorStrategyByIDExample" />
-        <item itemvalue="Application.LocatorStrategyCSSClassExample" />
-        <item itemvalue="Application.WebElementExample" />
-        <item itemvalue="Application.NavigationSeleniumDriverExample" />
-        <item itemvalue="Application.InteractionSeleniumExample" />
+        <item itemvalue="Application.DiffFindElementAndFindElementsExample" />
+        <item itemvalue="Application.LocatorStrategyTagNameExample" />
+        <item itemvalue="Application.LocatorStartegyPartialLinkExample" />
+        <item itemvalue="Application.LocatorStrategyLinkTextExample" />
+        <item itemvalue="Application.LocatorStrategyByNameExample" />
       </list>
     </recent_temporary>
   </component>
@@ -143,55 +144,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00224" summary="exception and excel operations">
-      <created>1720242795528</created>
-      <option name="number" value="00224" />
-      <option name="presentableId" value="LOCAL-00224" />
-      <option name="project" value="LOCAL" />
-      <updated>1720242795528</updated>
-    </task>
-    <task id="LOCAL-00225" summary="exception and excel operations">
-      <created>1720242800326</created>
-      <option name="number" value="00225" />
-      <option name="presentableId" value="LOCAL-00225" />
-      <option name="project" value="LOCAL" />
-      <updated>1720242800326</updated>
-    </task>
-    <task id="LOCAL-00226" summary="exception and excel operations">
-      <created>1720242804657</created>
-      <option name="number" value="00226" />
-      <option name="presentableId" value="LOCAL-00226" />
-      <option name="project" value="LOCAL" />
-      <updated>1720242804657</updated>
-    </task>
-    <task id="LOCAL-00227" summary="exception and excel operations">
-      <created>1720242809366</created>
-      <option name="number" value="00227" />
-      <option name="presentableId" value="LOCAL-00227" />
-      <option name="project" value="LOCAL" />
-      <updated>1720242809366</updated>
-    </task>
-    <task id="LOCAL-00228" summary="exception and excel operations">
-      <created>1720242813150</created>
-      <option name="number" value="00228" />
-      <option name="presentableId" value="LOCAL-00228" />
-      <option name="project" value="LOCAL" />
-      <updated>1720242813150</updated>
-    </task>
-    <task id="LOCAL-00229" summary="exception and excel operations">
-      <created>1720242819322</created>
-      <option name="number" value="00229" />
-      <option name="presentableId" value="LOCAL-00229" />
-      <option name="project" value="LOCAL" />
-      <updated>1720242819322</updated>
-    </task>
-    <task id="LOCAL-00230" summary="exception and excel operations">
-      <created>1720242824503</created>
-      <option name="number" value="00230" />
-      <option name="presentableId" value="LOCAL-00230" />
-      <option name="project" value="LOCAL" />
-      <updated>1720242824503</updated>
     </task>
     <task id="LOCAL-00231" summary="exception and excel operations">
       <created>1720242828517</created>
@@ -487,7 +439,56 @@
       <option name="project" value="LOCAL" />
       <updated>1722051136430</updated>
     </task>
-    <option name="localTasksCounter" value="273" />
+    <task id="LOCAL-00273" summary="selenium framework">
+      <created>1722056827573</created>
+      <option name="number" value="00273" />
+      <option name="presentableId" value="LOCAL-00273" />
+      <option name="project" value="LOCAL" />
+      <updated>1722056827573</updated>
+    </task>
+    <task id="LOCAL-00274" summary="selenium framework">
+      <created>1722056831469</created>
+      <option name="number" value="00274" />
+      <option name="presentableId" value="LOCAL-00274" />
+      <option name="project" value="LOCAL" />
+      <updated>1722056831469</updated>
+    </task>
+    <task id="LOCAL-00275" summary="selenium framework">
+      <created>1722056837058</created>
+      <option name="number" value="00275" />
+      <option name="presentableId" value="LOCAL-00275" />
+      <option name="project" value="LOCAL" />
+      <updated>1722056837058</updated>
+    </task>
+    <task id="LOCAL-00276" summary="selenium framework">
+      <created>1722056843500</created>
+      <option name="number" value="00276" />
+      <option name="presentableId" value="LOCAL-00276" />
+      <option name="project" value="LOCAL" />
+      <updated>1722056843500</updated>
+    </task>
+    <task id="LOCAL-00277" summary="selenium framework">
+      <created>1722056850936</created>
+      <option name="number" value="00277" />
+      <option name="presentableId" value="LOCAL-00277" />
+      <option name="project" value="LOCAL" />
+      <updated>1722056850936</updated>
+    </task>
+    <task id="LOCAL-00278" summary="selenium framework">
+      <created>1722056854597</created>
+      <option name="number" value="00278" />
+      <option name="presentableId" value="LOCAL-00278" />
+      <option name="project" value="LOCAL" />
+      <updated>1722056854597</updated>
+    </task>
+    <task id="LOCAL-00279" summary="selenium framework">
+      <created>1722056861080</created>
+      <option name="number" value="00279" />
+      <option name="presentableId" value="LOCAL-00279" />
+      <option name="project" value="LOCAL" />
+      <updated>1722056861080</updated>
+    </task>
+    <option name="localTasksCounter" value="280" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
