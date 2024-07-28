@@ -1,0 +1,91 @@
+<!doctype html>
+<html>
+<head><title>Todo List</title>
+  <link rel="stylesheet" type="text/css" href="css/todo.css">
+</head>
+<body>
+
+<!--
+    A simpler custom version of the - todomvc app to allow editing for testing and custom automating
+    Much of the DOM is hte same and ids and classes to allow automating from here to work (mostly unchanged)
+    on the todomvc site.
+
+    https://github.com/tastejs/todomvc
+    Todomvc is MIT licensed
+    This was based on code at 20190830
+    https://github.com/tastejs/todomvc/commit/f9196709d03323000a468df405c51c0d842c98b5
+
+-->
+
+<section class="todoapp">
+  <header class="header">
+    <nav>[<a id="navtodolists" href="todolists.html">lists</a>]
+      [<a id="navadminlogin" href="adminlogin.html">Admin Login</a>]
+      [<a id="navadminlogout" onclick="new Admin().logout();">Logout</a>]
+    </nav>
+    <h1 id="todostitle">todos</h1>
+    <input class="new-todo" placeholder="Enter new todo text here" autofocus="">
+  </header>
+  <section class="main" style="display: block;">
+    <input id="toggle-all" class="toggle-all" type="checkbox">
+    <label for="toggle-all">Mark all as complete</label>
+    <ul class="todo-list">
+    </ul>
+  </section>
+  <footer class="footer" style="display: block;">
+    <span class="todo-count"><strong>1</strong> item left</span>
+    <ul class="filters">
+      <li>
+        <a href="#/" class="selected">All</a>
+      </li>
+      <li>
+        <a href="#/active">Active</a>
+      </li>
+      <li>
+        <a href="#/completed">Completed</a>
+      </li>
+    </ul>
+    <button class="clear-completed" style="display: block;">Clear completed</button>
+  </footer>
+</section>
+
+<script src="js/store.js"></script>
+<script src="js/template.js"></script>
+<script src="js/view.js"></script>
+<script src="js/todoapp.js"></script>
+<script src="js/admin.js"></script>
+
+<script>
+
+// replicating as much of todomvc as is necessary for simple console and web automating
+window.app = window.app || {};
+
+// get the list name 'eviltester' from a param, and if not exist then use default list 'eviltester'
+var params = document.location.hash.split("&");
+var filter = params[0] || "";
+var todoListName = params[1] || "eviltester";
+
+var todo = new Todo('todos-' + todoListName);
+
+window.app = todo.app;
+
+document.getElementById("todostitle").innerText="TODOs : " + todoListName.replace(/-/g, " ");
+
+
+setView = function() {
+    var params = document.location.hash.split("&");
+    var filter = params[0] || "";
+    todo.app.setView(filter);
+}
+
+window.addEventListener('load', setView);
+window.addEventListener('hashchange', setView);
+
+todo.app.bindGuiEvents();
+
+new Admin().activateLoginLink();
+
+
+</script>
+</body>
+</html>
