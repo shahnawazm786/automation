@@ -1,0 +1,48 @@
+# Xpath
+ 1. Absolute path
+    start with /
+ 2. Relative path
+    start with //
+ use of Xpath
+ //TagName[@attribute='value']
+ <input type="radio" name="gender" value="f">
+ TagName - input
+ Attribute - [type,name,value]
+ //input[@type="radio"] or //input[@type='radio']
+ //input[@name="gender"] or //input[@name='gender']
+ //input[@value="f"] or //input[@value='f']
+
+ <input class="information" type="text" id="fname" name="fname" value="Jane">
+ TagName - input
+ Atrribute - [class, type, id, name, value]
+ //input[@class="information"] or //input[@class='information']
+ //input[@type="text"] or //input[@type='text']
+ //input[@id="fname"] or //input[@id='fname']
+ //input[@name="fname"] or //input[@name='fname']
+ //input[@value="Jane"] or //input[@value='Jane']
+
+ Xpath Axes
+ ---------------
+ <div>
+    <div>
+        <div>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+ </div>
+ <span> element
+  ----------------------------
+  <div>
+             <span></span>
+  </div>
+  /div/span - div is parent of span
+
+  <div>
+          <div>
+              <span></span>
+          </div>
+  </div>
+  /div/div/span - 1. div is grand parent and 2. div is parent of span
+                  span is grand son for div1 and son is for div2
