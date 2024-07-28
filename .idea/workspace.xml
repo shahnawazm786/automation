@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="selenium framework">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ToDoList/Todo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ToDoList/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ToDoList/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ToDoList/styles.css" afterDir="false" />
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="TODO List">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/adminlogin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/adminview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/css/todo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/js/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/js/listmanagementtemplate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/js/listmanagementview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/js/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/js/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/js/todoapp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/js/view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/todo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/todolists.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,41 +150,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00239" summary="excel and properties file">
-      <created>1720329026082</created>
-      <option name="number" value="00239" />
-      <option name="presentableId" value="LOCAL-00239" />
-      <option name="project" value="LOCAL" />
-      <updated>1720329026082</updated>
-    </task>
-    <task id="LOCAL-00240" summary="excel and properties file">
-      <created>1720329029997</created>
-      <option name="number" value="00240" />
-      <option name="presentableId" value="LOCAL-00240" />
-      <option name="project" value="LOCAL" />
-      <updated>1720329029997</updated>
-    </task>
-    <task id="LOCAL-00241" summary="excel and properties file">
-      <created>1720329036667</created>
-      <option name="number" value="00241" />
-      <option name="presentableId" value="LOCAL-00241" />
-      <option name="project" value="LOCAL" />
-      <updated>1720329036667</updated>
-    </task>
-    <task id="LOCAL-00242" summary="excel and properties file">
-      <created>1720329042964</created>
-      <option name="number" value="00242" />
-      <option name="presentableId" value="LOCAL-00242" />
-      <option name="project" value="LOCAL" />
-      <updated>1720329042964</updated>
-    </task>
-    <task id="LOCAL-00243" summary="excel and properties file">
-      <created>1720329047656</created>
-      <option name="number" value="00243" />
-      <option name="presentableId" value="LOCAL-00243" />
-      <option name="project" value="LOCAL" />
-      <updated>1720329047656</updated>
     </task>
     <task id="LOCAL-00244" summary="excel and properties file">
       <created>1721485999494</created>
@@ -485,7 +459,42 @@
       <option name="project" value="LOCAL" />
       <updated>1722139929698</updated>
     </task>
-    <option name="localTasksCounter" value="288" />
+    <task id="LOCAL-00288" summary="selenium framework">
+      <created>1722150469484</created>
+      <option name="number" value="00288" />
+      <option name="presentableId" value="LOCAL-00288" />
+      <option name="project" value="LOCAL" />
+      <updated>1722150469484</updated>
+    </task>
+    <task id="LOCAL-00289" summary="TODO List">
+      <created>1722150480500</created>
+      <option name="number" value="00289" />
+      <option name="presentableId" value="LOCAL-00289" />
+      <option name="project" value="LOCAL" />
+      <updated>1722150480500</updated>
+    </task>
+    <task id="LOCAL-00290" summary="TODO List">
+      <created>1722150486366</created>
+      <option name="number" value="00290" />
+      <option name="presentableId" value="LOCAL-00290" />
+      <option name="project" value="LOCAL" />
+      <updated>1722150486366</updated>
+    </task>
+    <task id="LOCAL-00291" summary="TODO List">
+      <created>1722150491283</created>
+      <option name="number" value="00291" />
+      <option name="presentableId" value="LOCAL-00291" />
+      <option name="project" value="LOCAL" />
+      <updated>1722150491283</updated>
+    </task>
+    <task id="LOCAL-00292" summary="TODO List">
+      <created>1722150496623</created>
+      <option name="number" value="00292" />
+      <option name="presentableId" value="LOCAL-00292" />
+      <option name="project" value="LOCAL" />
+      <updated>1722150496623</updated>
+    </task>
+    <option name="localTasksCounter" value="293" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,7 +553,8 @@
     <MESSAGE value="excel and properties file" />
     <MESSAGE value="collection framework" />
     <MESSAGE value="selenium framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="selenium framework" />
+    <MESSAGE value="TODO List" />
+    <option name="LAST_COMMIT_MESSAGE" value="TODO List" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
