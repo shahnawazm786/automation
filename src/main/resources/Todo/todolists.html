@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head><title>Todo Lists</title>
+  <link rel="stylesheet" type="text/css" href="css/todo.css">
+</head>
+
+<body>
+
+<!--
+    A simpler custom version of the - todomvc app to allow editing for testing and custom automating
+    Much of the DOM is hte same and ids and classes to allow automating from here to work (mostly unchanged)
+    on the todomvc site.
+
+    https://github.com/tastejs/todomvc
+    Todomvc is MIT licensed
+    This was based on code at 20190830
+    https://github.com/tastejs/todomvc/commit/f9196709d03323000a468df405c51c0d842c98b5
+
+-->
+
+<section class="todoapp">
+  <header class="header">
+
+    <nav>[<a id="navtodolists" href="todolists.html">lists</a>]
+      [<a id="navadminlogin" href="adminlogin.html">Admin Login</a>]
+      [<a id="navadminlogout" onclick="new Admin().logout();">Logout</a>]
+    </nav>
+
+    <h1>todos List Management</h1>
+    <input class="new-todo-list" placeholder="Enter new todo list name here" autofocus="">
+  </header>
+  <section class="main" style="display: block;">
+    <ul class="todo-list-list">
+    </ul>
+  </section>
+</section>
+
+<script src="js/store.js"></script>
+<script src="js/listmanagementtemplate.js"></script>
+<script src="js/listmanagementview.js"></script>
+<script src="js/todoapp.js"></script>
+<script src="js/admin.js"></script>
+
+<script>
+
+// replicating as much of todomvc as is necessary for simple console and web automating
+window.app = window.app || {};
+
+var todo = new Todo('todos-eviltester');
+window.app = todo.app;
+
+
+setView = function() {
+    todo.app.setListView();
+}
+
+window.addEventListener('load', setView);
+window.addEventListener('hashchange', setView);
+
+todo.app.bindListGuiEvents();
+
+new Admin().activateLoginLink();
+
+
+</script>
+</body>
+</html>
