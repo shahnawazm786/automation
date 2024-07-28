@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>To-Do List</title>
+  <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            margin: 0 auto;
+            width: 50%;
+        }
+        h1 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li:not(:last-child) {
+            margin-bottom: 10px;
+        }
+        label {
+            display: inline-block;
+            margin-right: 10px;
+            vertical-align: middle;
+        }
+        input[type="text"] {
+            padding: 5px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            font-size: 16px;
+        }
+        button {
+            padding: 5px 15px;
+            border-radius: 5px;
+            border: none;
+            background-color: #4CAF50;
+            color: white;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #3E8E41;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+  <h1>To-Do List</h1>
+  <form>
+    <label for="task">New task:</label>
+    <input type="text" id="task" name="task" placeholder="Enter task">
+    <button type="button" onclick="addTask()">Add</button>
+  </form>
+  <ul id="task-list">
+
+  </ul>
+</div>
+<script>
+        function addTask() {
+            // Get the input field and value
+            var taskInput = document.getElementById("task");
+            var taskValue = taskInput.value;
+
+            // Create a new list item and check box
+            var li = document.createElement("li");
+            var checkbox = document.createElement("input");
+            checkbox.type = "checkbox";
+            li.appendChild(checkbox);
+
+            // Add the task text to the list item
+            var textNode = document.createTextNode(taskValue);
+            li.appendChild(textNode);
+
+            // Add the list item to the task list
+            var ul = document.getElementById("task-list");
+            ul.appendChild(li);
+
+            // Clear the input field
+            taskInput.value = "";
+        }
+    </script>
+</body>
+</html>
