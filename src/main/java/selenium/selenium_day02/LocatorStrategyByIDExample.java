@@ -17,6 +17,6 @@ public class LocatorStrategyByIDExample {
         Thread.sleep(5000);
         WebElement element = driver.findElement(By.id("fname"));
         System.out.println(element.getAttribute("value"));
-        driver.close();
+        driver.quit();
     }
 }
