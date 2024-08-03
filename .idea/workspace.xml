@@ -5,19 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="TODO List">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/adminlogin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/adminview.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/css/todo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/js/admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/js/listmanagementtemplate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/js/listmanagementview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/js/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/js/template.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/js/todoapp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/js/view.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/todo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Todo/todolists.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,104 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00244" summary="excel and properties file">
-      <created>1721485999494</created>
-      <option name="number" value="00244" />
-      <option name="presentableId" value="LOCAL-00244" />
-      <option name="project" value="LOCAL" />
-      <updated>1721485999494</updated>
-    </task>
-    <task id="LOCAL-00245" summary="collection framework">
-      <created>1721488833019</created>
-      <option name="number" value="00245" />
-      <option name="presentableId" value="LOCAL-00245" />
-      <option name="project" value="LOCAL" />
-      <updated>1721488833019</updated>
-    </task>
-    <task id="LOCAL-00246" summary="collection framework">
-      <created>1721488839507</created>
-      <option name="number" value="00246" />
-      <option name="presentableId" value="LOCAL-00246" />
-      <option name="project" value="LOCAL" />
-      <updated>1721488839507</updated>
-    </task>
-    <task id="LOCAL-00247" summary="collection framework">
-      <created>1721488848326</created>
-      <option name="number" value="00247" />
-      <option name="presentableId" value="LOCAL-00247" />
-      <option name="project" value="LOCAL" />
-      <updated>1721488848326</updated>
-    </task>
-    <task id="LOCAL-00248" summary="collection framework">
-      <created>1721488854006</created>
-      <option name="number" value="00248" />
-      <option name="presentableId" value="LOCAL-00248" />
-      <option name="project" value="LOCAL" />
-      <updated>1721488854006</updated>
-    </task>
-    <task id="LOCAL-00249" summary="collection framework">
-      <created>1721488857989</created>
-      <option name="number" value="00249" />
-      <option name="presentableId" value="LOCAL-00249" />
-      <option name="project" value="LOCAL" />
-      <updated>1721488857989</updated>
-    </task>
-    <task id="LOCAL-00250" summary="collection framework">
-      <created>1721491389487</created>
-      <option name="number" value="00250" />
-      <option name="presentableId" value="LOCAL-00250" />
-      <option name="project" value="LOCAL" />
-      <updated>1721491389487</updated>
-    </task>
-    <task id="LOCAL-00251" summary="collection framework">
-      <created>1721491399676</created>
-      <option name="number" value="00251" />
-      <option name="presentableId" value="LOCAL-00251" />
-      <option name="project" value="LOCAL" />
-      <updated>1721491399676</updated>
-    </task>
-    <task id="LOCAL-00252" summary="collection framework">
-      <created>1721491409033</created>
-      <option name="number" value="00252" />
-      <option name="presentableId" value="LOCAL-00252" />
-      <option name="project" value="LOCAL" />
-      <updated>1721491409033</updated>
-    </task>
-    <task id="LOCAL-00253" summary="collection framework">
-      <created>1721491450943</created>
-      <option name="number" value="00253" />
-      <option name="presentableId" value="LOCAL-00253" />
-      <option name="project" value="LOCAL" />
-      <updated>1721491450943</updated>
-    </task>
-    <task id="LOCAL-00254" summary="collection framework">
-      <created>1721491458569</created>
-      <option name="number" value="00254" />
-      <option name="presentableId" value="LOCAL-00254" />
-      <option name="project" value="LOCAL" />
-      <updated>1721491458569</updated>
-    </task>
-    <task id="LOCAL-00255" summary="collection framework">
-      <created>1721491466889</created>
-      <option name="number" value="00255" />
-      <option name="presentableId" value="LOCAL-00255" />
-      <option name="project" value="LOCAL" />
-      <updated>1721491466889</updated>
-    </task>
-    <task id="LOCAL-00256" summary="collection framework">
-      <created>1721491472754</created>
-      <option name="number" value="00256" />
-      <option name="presentableId" value="LOCAL-00256" />
-      <option name="project" value="LOCAL" />
-      <updated>1721491472754</updated>
-    </task>
-    <task id="LOCAL-00257" summary="collection framework">
-      <created>1721491690489</created>
-      <option name="number" value="00257" />
-      <option name="presentableId" value="LOCAL-00257" />
-      <option name="project" value="LOCAL" />
-      <updated>1721491690489</updated>
     </task>
     <task id="LOCAL-00258" summary="collection framework">
       <created>1721570281887</created>
@@ -494,7 +383,105 @@
       <option name="project" value="LOCAL" />
       <updated>1722150496623</updated>
     </task>
-    <option name="localTasksCounter" value="293" />
+    <task id="LOCAL-00293" summary="TODO List">
+      <created>1722151246642</created>
+      <option name="number" value="00293" />
+      <option name="presentableId" value="LOCAL-00293" />
+      <option name="project" value="LOCAL" />
+      <updated>1722151246642</updated>
+    </task>
+    <task id="LOCAL-00294" summary="TODO List">
+      <created>1722151254359</created>
+      <option name="number" value="00294" />
+      <option name="presentableId" value="LOCAL-00294" />
+      <option name="project" value="LOCAL" />
+      <updated>1722151254359</updated>
+    </task>
+    <task id="LOCAL-00295" summary="TODO List">
+      <created>1722151261468</created>
+      <option name="number" value="00295" />
+      <option name="presentableId" value="LOCAL-00295" />
+      <option name="project" value="LOCAL" />
+      <updated>1722151261468</updated>
+    </task>
+    <task id="LOCAL-00296" summary="TODO List">
+      <created>1722151269889</created>
+      <option name="number" value="00296" />
+      <option name="presentableId" value="LOCAL-00296" />
+      <option name="project" value="LOCAL" />
+      <updated>1722151269889</updated>
+    </task>
+    <task id="LOCAL-00297" summary="TODO List">
+      <created>1722151274354</created>
+      <option name="number" value="00297" />
+      <option name="presentableId" value="LOCAL-00297" />
+      <option name="project" value="LOCAL" />
+      <updated>1722151274354</updated>
+    </task>
+    <task id="LOCAL-00298" summary="TODO List">
+      <created>1722151281252</created>
+      <option name="number" value="00298" />
+      <option name="presentableId" value="LOCAL-00298" />
+      <option name="project" value="LOCAL" />
+      <updated>1722151281252</updated>
+    </task>
+    <task id="LOCAL-00299" summary="TODO List">
+      <created>1722151291829</created>
+      <option name="number" value="00299" />
+      <option name="presentableId" value="LOCAL-00299" />
+      <option name="project" value="LOCAL" />
+      <updated>1722151291829</updated>
+    </task>
+    <task id="LOCAL-00300" summary="TODO List">
+      <created>1722151296588</created>
+      <option name="number" value="00300" />
+      <option name="presentableId" value="LOCAL-00300" />
+      <option name="project" value="LOCAL" />
+      <updated>1722151296588</updated>
+    </task>
+    <task id="LOCAL-00301" summary="TODO List">
+      <created>1722151305471</created>
+      <option name="number" value="00301" />
+      <option name="presentableId" value="LOCAL-00301" />
+      <option name="project" value="LOCAL" />
+      <updated>1722151305472</updated>
+    </task>
+    <task id="LOCAL-00302" summary="TODO List">
+      <created>1722151311083</created>
+      <option name="number" value="00302" />
+      <option name="presentableId" value="LOCAL-00302" />
+      <option name="project" value="LOCAL" />
+      <updated>1722151311083</updated>
+    </task>
+    <task id="LOCAL-00303" summary="TODO List">
+      <created>1722151319646</created>
+      <option name="number" value="00303" />
+      <option name="presentableId" value="LOCAL-00303" />
+      <option name="project" value="LOCAL" />
+      <updated>1722151319646</updated>
+    </task>
+    <task id="LOCAL-00304" summary="TODO List">
+      <created>1722151324936</created>
+      <option name="number" value="00304" />
+      <option name="presentableId" value="LOCAL-00304" />
+      <option name="project" value="LOCAL" />
+      <updated>1722151324936</updated>
+    </task>
+    <task id="LOCAL-00305" summary="TODO List">
+      <created>1722151330345</created>
+      <option name="number" value="00305" />
+      <option name="presentableId" value="LOCAL-00305" />
+      <option name="project" value="LOCAL" />
+      <updated>1722151330345</updated>
+    </task>
+    <task id="LOCAL-00306" summary="TODO List">
+      <created>1722151336457</created>
+      <option name="number" value="00306" />
+      <option name="presentableId" value="LOCAL-00306" />
+      <option name="project" value="LOCAL" />
+      <updated>1722151336457</updated>
+    </task>
+    <option name="localTasksCounter" value="307" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
