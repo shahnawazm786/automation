@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="xpath selenium">
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day05/XpathExample10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day05/XpathExample11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day05/XpathExample12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xpath_example/xpath_03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="xpath selenium" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,41 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00275" summary="selenium framework">
-      <created>1722056837058</created>
-      <option name="number" value="00275" />
-      <option name="presentableId" value="LOCAL-00275" />
-      <option name="project" value="LOCAL" />
-      <updated>1722056837058</updated>
-    </task>
-    <task id="LOCAL-00276" summary="selenium framework">
-      <created>1722056843500</created>
-      <option name="number" value="00276" />
-      <option name="presentableId" value="LOCAL-00276" />
-      <option name="project" value="LOCAL" />
-      <updated>1722056843500</updated>
-    </task>
-    <task id="LOCAL-00277" summary="selenium framework">
-      <created>1722056850936</created>
-      <option name="number" value="00277" />
-      <option name="presentableId" value="LOCAL-00277" />
-      <option name="project" value="LOCAL" />
-      <updated>1722056850936</updated>
-    </task>
-    <task id="LOCAL-00278" summary="selenium framework">
-      <created>1722056854597</created>
-      <option name="number" value="00278" />
-      <option name="presentableId" value="LOCAL-00278" />
-      <option name="project" value="LOCAL" />
-      <updated>1722056854597</updated>
-    </task>
-    <task id="LOCAL-00279" summary="selenium framework">
-      <created>1722056861080</created>
-      <option name="number" value="00279" />
-      <option name="presentableId" value="LOCAL-00279" />
-      <option name="project" value="LOCAL" />
-      <updated>1722056861080</updated>
     </task>
     <task id="LOCAL-00280" summary="selenium framework">
       <created>1722139892078</created>
@@ -485,7 +444,42 @@
       <option name="project" value="LOCAL" />
       <updated>1722750050938</updated>
     </task>
-    <option name="localTasksCounter" value="324" />
+    <task id="LOCAL-00324" summary="xpath selenium">
+      <created>1722752387133</created>
+      <option name="number" value="00324" />
+      <option name="presentableId" value="LOCAL-00324" />
+      <option name="project" value="LOCAL" />
+      <updated>1722752387133</updated>
+    </task>
+    <task id="LOCAL-00325" summary="xpath selenium">
+      <created>1722752393772</created>
+      <option name="number" value="00325" />
+      <option name="presentableId" value="LOCAL-00325" />
+      <option name="project" value="LOCAL" />
+      <updated>1722752393772</updated>
+    </task>
+    <task id="LOCAL-00326" summary="xpath selenium">
+      <created>1722752397370</created>
+      <option name="number" value="00326" />
+      <option name="presentableId" value="LOCAL-00326" />
+      <option name="project" value="LOCAL" />
+      <updated>1722752397370</updated>
+    </task>
+    <task id="LOCAL-00327" summary="xpath selenium">
+      <created>1722752434680</created>
+      <option name="number" value="00327" />
+      <option name="presentableId" value="LOCAL-00327" />
+      <option name="project" value="LOCAL" />
+      <updated>1722752434680</updated>
+    </task>
+    <task id="LOCAL-00328" summary="xpath selenium">
+      <created>1722752438725</created>
+      <option name="number" value="00328" />
+      <option name="presentableId" value="LOCAL-00328" />
+      <option name="project" value="LOCAL" />
+      <updated>1722752438725</updated>
+    </task>
+    <option name="localTasksCounter" value="329" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
