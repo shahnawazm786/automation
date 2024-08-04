@@ -13,7 +13,7 @@ public class XpathExample09 {
         driver = new ChromeDriver(options);
         driver.get("file:///C:/weekly-classes/automation/src/main/resources/xpath_example/xpath_02.html");
         System.out.println(driver.findElements(By.xpath("//label[starts-with(@aria-nav,'link')]")).get(0).getText());
-        System.out.println(driver.findElements(By.xpath("//label[ends-with(@aria-nav,'name')]")).get(1).getText());
+        //System.out.println(driver.findElements(By.xpath("//label[ends-with(@aria-nav,'name')]")).get(1).getText());
         Thread.sleep(5000);
         driver.quit();
     }
