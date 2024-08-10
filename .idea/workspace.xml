@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="xpath selenium" />
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="xpath selenium">
+      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day06/HandlingWithComponentExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day06/IndexPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/htmls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,13 +56,13 @@
       <recent name="C:\weekly-classes\automation\src\main\resources\drivers\chrome" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.XpathExample12">
-    <configuration name="XpathExample08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day05.XpathExample08" />
+  <component name="RunManager" selected="Application.HandlingWithComponentExample">
+    <configuration name="HandlingWithComponentExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day06.HandlingWithComponentExample" />
       <module name="automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selenium.selenium_day05.*" />
+          <option name="PATTERN" value="selenium.selenium_day06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HandlingWithComponentExample" />
         <item itemvalue="Application.XpathExample12" />
         <item itemvalue="Application.XpathExample11" />
         <item itemvalue="Application.XpathExample10" />
         <item itemvalue="Application.XpathExample09" />
-        <item itemvalue="Application.XpathExample08" />
       </list>
     </recent_temporary>
   </component>
