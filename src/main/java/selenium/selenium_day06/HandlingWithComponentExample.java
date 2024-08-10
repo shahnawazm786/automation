@@ -15,8 +15,17 @@ public class HandlingWithComponentExample {
         driver.get("file:///C:/weekly-classes/automation/src/main/resources/htmls/index.html");
         Thread.sleep(5000);
         indexPage=new IndexPage(driver);
-        System.out.println(indexPage.getText());
+        System.out.println(indexPage.getParaText());
         Thread.sleep(5000);
-        driver.quit();
+        System.out.println(indexPage.getDivText());
+        Thread.sleep(5000);
+        indexPage.enterFirestName("KAZ");
+        indexPage.enterLastName("Online Free Classes");
+        indexPage.clickRadioButtonOneByOne();
+        indexPage.clickOnCheckBox();
+        indexPage.clickOnCalendar();
+        Thread.sleep(5000);
+      //  driver.quit();
+
     }
 }
