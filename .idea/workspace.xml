@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="POM selenium" />
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="POM selenium">
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/util/CommonMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/util/CommonMethod.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,13 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00306" summary="TODO List">
-      <created>1722151336457</created>
-      <option name="number" value="00306" />
-      <option name="presentableId" value="LOCAL-00306" />
-      <option name="project" value="LOCAL" />
-      <updated>1722151336457</updated>
     </task>
     <task id="LOCAL-00307" summary="TODO List">
       <created>1722699335018</created>
@@ -479,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1723354328418</updated>
     </task>
-    <option name="localTasksCounter" value="355" />
+    <task id="LOCAL-00355" summary="POM selenium">
+      <created>1723356662503</created>
+      <option name="number" value="00355" />
+      <option name="presentableId" value="LOCAL-00355" />
+      <option name="project" value="LOCAL" />
+      <updated>1723356662503</updated>
+    </task>
+    <option name="localTasksCounter" value="356" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
