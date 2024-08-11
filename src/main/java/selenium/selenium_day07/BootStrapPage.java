@@ -11,7 +11,11 @@ public class BootStrapPage {
         this.driver=driver;
     }
     By dropdownMenuButton=By.id("dropdownMenuButton");
+    By dropOptions=By.xpath("(//a[@class='dropdown-item' and text()='Action'])[1]");
     public  void clickOnDropDownMenu(){
-
+        driver.findElement(dropdownMenuButton).click();
+    }
+    public void selectOptions(){
+        driver.findElement(dropOptions).click();
     }
 }
