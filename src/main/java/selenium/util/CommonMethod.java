@@ -1,10 +1,8 @@
 package selenium.util;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
@@ -71,6 +69,19 @@ public class CommonMethod {
     public static void clcikJS(WebDriver driver,By locator){
         js=(JavascriptExecutor) driver;
         js.executeScript("arguments[0].click()",findElement(driver,locator));
+    }
+
+    public static void fluentWait(WebDriver driver,By locator){
+        wait = (WebDriverWait) new FluentWait<>(driver).
+                withTimeout(Duration.ofSeconds(2)).
+                pollingEvery(Duration.ofMillis(300)).
+                ignoring(ElementNotInteractableException.class);
+
+        wait.until(
+                d -> {
+                    findElement(d,locator).sendKeys("Displayed");
+                    return true;
+                });
     }
 
 }
