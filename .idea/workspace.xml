@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="POM selenium">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/selenium_day07/BootStrapDropDownExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day07/BootStrapDropDownExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/selenium/selenium_day07/BootStrapPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day07/BootStrapPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/util/CommonMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/util/CommonMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,20 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00300" summary="TODO List">
-      <created>1722151296588</created>
-      <option name="number" value="00300" />
-      <option name="presentableId" value="LOCAL-00300" />
-      <option name="project" value="LOCAL" />
-      <updated>1722151296588</updated>
-    </task>
-    <task id="LOCAL-00301" summary="TODO List">
-      <created>1722151305471</created>
-      <option name="number" value="00301" />
-      <option name="presentableId" value="LOCAL-00301" />
-      <option name="project" value="LOCAL" />
-      <updated>1722151305472</updated>
     </task>
     <task id="LOCAL-00302" summary="TODO List">
       <created>1722151311083</created>
@@ -482,7 +470,21 @@
       <option name="project" value="LOCAL" />
       <updated>1723349671506</updated>
     </task>
-    <option name="localTasksCounter" value="349" />
+    <task id="LOCAL-00349" summary="POM selenium">
+      <created>1723350186840</created>
+      <option name="number" value="00349" />
+      <option name="presentableId" value="LOCAL-00349" />
+      <option name="project" value="LOCAL" />
+      <updated>1723350186840</updated>
+    </task>
+    <task id="LOCAL-00350" summary="POM selenium">
+      <created>1723350192808</created>
+      <option name="number" value="00350" />
+      <option name="presentableId" value="LOCAL-00350" />
+      <option name="project" value="LOCAL" />
+      <updated>1723350192808</updated>
+    </task>
+    <option name="localTasksCounter" value="351" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -563,6 +565,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/day04/WhileLoopClass.java</url>
           <line>23</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/selenium/selenium_day07/BootStrapDropDownExample.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
