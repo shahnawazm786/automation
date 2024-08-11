@@ -1,6 +1,7 @@
 package selenium.selenium_day06;
 
 import org.openqa.selenium.*;
+import org.openqa.selenium.support.ui.Select;
 import selenium.util.CommonMethod;
 
 import java.util.List;
@@ -21,6 +22,12 @@ public class IndexPage {
     By course=By.xpath("//input[@type='radio']");
     By checkBox=By.xpath("//input[@type='checkbox']");
     By calendar=By.id("datemax");
+    By email=By.id("email");
+    By attachmentFile=By.id("myfile");
+
+    By quantity=By.id("quantity");
+    By week=By.id("week");
+    By listBox=By.xpath("//select[@name='Name_of_list_box']");
     /*public String getText(){
         WebElement element = driver.findElement(paragraph);
         String text=element.getText();
@@ -82,5 +89,29 @@ public class IndexPage {
         driver.findElement(calendar).sendKeys("11-08-1978");
         driver.findElement(calendar).sendKeys(Keys.ENTER);
     }
-
+    public void setDateToCalendar(){
+        driver.findElement(calendar).sendKeys("11-08-1978");
+        //driver.findElement(calendar).sendKeys(Keys.ENTER);
+    }
+    public void enterEmail(String emailID){
+    CommonMethod.sendKeys(driver,email,emailID,0);
+    }
+    public void selectFileAttachment(String path){
+        CommonMethod.sendKeys(driver,attachmentFile,path,0);
+    }
+    public void selectOptions() throws InterruptedException{
+        Select select=new Select(driver.findElement(listBox));
+        select.selectByVisibleText("List item 1");
+        Thread.sleep(2000);
+        select.selectByIndex(1);
+        Thread.sleep(2000);
+        select.selectByValue("listN");
+        Thread.sleep(2000);
+    }
+    public void setQuantity(String qty){
+        CommonMethod.sendKeys(driver,quantity,qty,0);
+    }
+    public void setWeek(String wk){
+        CommonMethod.sendKeys(driver,week,wk,0);
+    }
 }
