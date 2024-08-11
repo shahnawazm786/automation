@@ -4,7 +4,6 @@ import org.openqa.selenium.ElementClickInterceptedException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import selenium.selenium_day06.IndexPage;
 
 import java.time.Duration;
 
