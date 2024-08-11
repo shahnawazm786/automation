@@ -35,4 +35,7 @@ public class CommonMethod {
     public static List<WebElement> getRadioButton(WebDriver driver,By locator){
         return driver.findElements(locator);
     }
+    public static void sendKeys(WebDriver driver, By locator,String text,long time ){
+        driver.findElement(locator).sendKeys(text);
+    }
 }
