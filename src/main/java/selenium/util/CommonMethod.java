@@ -1,12 +1,18 @@
 package selenium.util;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.time.Duration;
 import java.util.List;
 
 public class CommonMethod {
+    static WebDriverWait wait;
+    static JavascriptExecutor js;
     /**
      *
      * @param element - pass the elements
@@ -38,4 +44,33 @@ public class CommonMethod {
     public static void sendKeys(WebDriver driver, By locator,String text,long time ){
         driver.findElement(locator).sendKeys(text);
     }
+    public static  void scrollTOView(WebDriver driver,By locator){
+        JavascriptExecutor js=(JavascriptExecutor) driver;
+        WebElement element=driver.findElement(locator);
+        js.executeScript("arguments[0].scrollIntoView(true);",element);
+    }
+    public static void waitTillElementClickable(WebDriver driver,By locator,long duration){
+        //checking dom 500 milli second
+        wait=new WebDriverWait(driver, Duration.ofSeconds(duration));
+        wait.until(ExpectedConditions.elementToBeClickable(findElement(driver,locator)));
+    }
+    public static void waitTillElementVisible(WebDriver driver,By locator,long duration){
+        //checking dom 500 milli second
+        wait=new WebDriverWait(driver, Duration.ofSeconds(duration));
+        wait.until(ExpectedConditions.visibilityOf(findElement(driver,locator)));
+    }
+    public static void waitTillElementDisplayed(WebDriver driver,By locator,long duration){
+        //checking dom 500 milli second
+        // lambda function
+        wait=new WebDriverWait(driver, Duration.ofSeconds(duration));
+        wait.until(d->d.findElement(locator).isDisplayed());
+    }
+    private static WebElement findElement(WebDriver driver,By locator){
+        return driver.findElement(locator);
+    }
+    public static void clcikJS(WebDriver driver,By locator){
+        js=(JavascriptExecutor) driver;
+        js.executeScript("arguments[0].click()",findElement(driver,locator));
+    }
+
 }
