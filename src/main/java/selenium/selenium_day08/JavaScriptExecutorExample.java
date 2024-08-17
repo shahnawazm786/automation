@@ -1,9 +1,6 @@
 package selenium.selenium_day08;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import selenium.selenium_day07.BootStrapPage;
@@ -31,8 +28,23 @@ public class JavaScriptExecutorExample {
         //js.executeScript("window.scrollTo(500,0)",true); // vertical
         js.executeScript("document.getElementById('fname').value='KAZ'",true);
         Thread.sleep(1000);
+        js.executeScript("console.table(['Audi', 'Volvo', 'Ford']);");
+        js.executeScript("console.table({firstname:\"John\", lastname:\"Doe\"});");
+        //js.executeScript("const cars = [\"Saab\", \"Volvo\", \"BMW\"];");
+        Thread.sleep(1000);
         //js.executeScript("window.scrollBy(0,-750)",true);
         js.executeScript("window.alert('Hello I am java script')",true); // Horizontal
+        Thread.sleep(1000);
+        Alert alert=driver.switchTo().alert();
+         alert.accept(); //OK
+        js.executeScript("window.prompt('Hello I am java script','Prompt Me')",true); // Horizontal
+        alert=driver.switchTo().alert();
+        alert.accept(); //OK
+        Thread.sleep(2000);
+        js.executeScript("window.prompt('Hello I am java script','Prompt Me')",true); // Horizontal
+        alert=driver.switchTo().alert();
+        alert.dismiss(); //Cancel
+
         Thread.sleep(5000);
 
 
