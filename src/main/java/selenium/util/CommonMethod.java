@@ -16,6 +16,7 @@ public class CommonMethod {
      * @param element - pass the elements
      * @return - text of the element
      */
+
     public static String getText(WebElement element){
         return element.getText();
     }
