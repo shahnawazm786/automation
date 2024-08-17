@@ -22,6 +22,8 @@ public class WaitsExample {
             JavascriptExecutor js=(JavascriptExecutor) driver;
             WebElement ele = driver.findElement(By.xpath("//span[text()='Find & Book']"));
             js.executeScript("arguments[0].click();",ele);
+            js.executeScript("window.open('#')",true);
+            driver.navigate().to("https://www.w3schools.com/jsref/met_win_open.asp");
         }
        // driver.quit();
     }
