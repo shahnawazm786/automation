@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Loading.............</title>
+    <script>
+
+      function load() {
+         setTimeout(myURL, 10000);
+         var result = document.getElementById("result");
+         result.innerHTML = `The page will load after delay of 10 seconds using setTimeout()  method.`;
+      }
+
+      function myURL() {
+         window.open('forms.html', name = self);
+      }
+   </script>
+
+</head>
+<body onload="load()">
+
+</body>
+</html>
