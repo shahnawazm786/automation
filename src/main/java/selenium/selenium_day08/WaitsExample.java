@@ -25,7 +25,7 @@ public class WaitsExample {
             js.executeScript("window.open('#')",true);
             driver.navigate().to("https://www.w3schools.com/jsref/met_win_open.asp");
         }
-       // driver.quit();
-        driver.close();
+        driver.quit();
+       // driver.close();
     }
 }
