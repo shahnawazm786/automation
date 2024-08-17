@@ -26,5 +26,6 @@ public class WaitsExample {
             driver.navigate().to("https://www.w3schools.com/jsref/met_win_open.asp");
         }
        // driver.quit();
+        driver.close();
     }
 }
