@@ -85,4 +85,13 @@ public class CommonMethod {
                 });
     }
 
+    public static void waitTillVisiblity(WebDriver driver, By locator,long duration){
+        wait=new WebDriverWait(driver,Duration.ofSeconds(20));
+        wait.until(ExpectedConditions.visibilityOf(driver.findElement(locator)));
+    }
+    public static void waitForPopupDisplay(WebDriver driver,long duration){
+        wait=new WebDriverWait(driver,Duration.ofSeconds(duration));
+        wait.until(ExpectedConditions.alertIsPresent());
+    }
+
 }
