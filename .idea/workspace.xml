@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="POM selenium" />
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="wait and iframe selenium">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/htmls/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/htmls/buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/htmls/iframes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/htmls/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,13 +141,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00332" summary="POM selenium">
-      <created>1723264287454</created>
-      <option name="number" value="00332" />
-      <option name="presentableId" value="LOCAL-00332" />
-      <option name="project" value="LOCAL" />
-      <updated>1723264287454</updated>
     </task>
     <task id="LOCAL-00333" summary="POM selenium">
       <created>1723267482036</created>
@@ -479,7 +478,14 @@
       <option name="project" value="LOCAL" />
       <updated>1723891008037</updated>
     </task>
-    <option name="localTasksCounter" value="381" />
+    <task id="LOCAL-00381" summary="wait and iframe selenium">
+      <created>1723950073270</created>
+      <option name="number" value="00381" />
+      <option name="presentableId" value="LOCAL-00381" />
+      <option name="project" value="LOCAL" />
+      <updated>1723950073270</updated>
+    </task>
+    <option name="localTasksCounter" value="382" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -541,7 +547,8 @@
     <MESSAGE value="TODO List" />
     <MESSAGE value="xpath selenium" />
     <MESSAGE value="POM selenium" />
-    <option name="LAST_COMMIT_MESSAGE" value="POM selenium" />
+    <MESSAGE value="wait and iframe selenium" />
+    <option name="LAST_COMMIT_MESSAGE" value="wait and iframe selenium" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
