@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Buttons Example.........</title>
+
+<script>
+  function createButton(){
+  alert('Hello I am button');
+  }
+  function addButton(){
+  let btn=document.createElement('BUTTON');
+  btn.innerText="Button Created";
+  document.appendChild(btn);
+
+  }
+
+</script>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+
+<body>
+<input type="button" id="button1" name="button1" value="Press Me" onclick="createButton();"/>
+<br/>
+<input type="button" id="button2" name="button2" value="Add Button" onclick="addButton();"/>
+</body>
+</html>
