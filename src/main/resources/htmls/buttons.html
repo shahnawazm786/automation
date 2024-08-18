@@ -5,22 +5,22 @@
     <title>Buttons Example.........</title>
 
 <script>
-  function createButton(){
-  alert('Hello I am button');
-  }
-  function addButton(){
-  let btn=document.createElement('BUTTON');
-  btn.innerText="Button Created";
-  document.appendChild(btn);
-
-  }
-
+function createButton(){
+    setTimeout(function() {alert('close');},5000);
+}
+function addButton(){
+setTimeout(function() {addNewButton();},5000);
+}
+function addNewButton(){
+alert("Hi!!!!!");
+}
 </script>
   <link rel="stylesheet" href="style.css"/>
 </head>
 
 <body>
 <input type="button" id="button1" name="button1" value="Press Me" onclick="createButton();"/>
+<hr/>
 <br/>
 <input type="button" id="button2" name="button2" value="Add Button" onclick="addButton();"/>
 </body>
