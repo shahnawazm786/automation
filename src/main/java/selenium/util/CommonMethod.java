@@ -94,4 +94,5 @@ public class CommonMethod {
         wait.until(ExpectedConditions.alertIsPresent());
     }
 
+
 }
