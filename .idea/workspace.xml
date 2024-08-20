@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="wait and iframe selenium">
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day09/IframeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day09/PopupWaitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day09/WaitsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/selenium_day09/WindowsHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/util/CommonMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/util/CommonMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/htmls/buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/htmls/buttons.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/htmls/delay.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/htmls/delay.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/htmls/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/htmls/forms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/htmls/iframes.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/htmls/iframes.html" afterDir="false" />
-    </list>
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="wait and iframe selenium" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,76 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00338" summary="POM selenium">
-      <created>1723267505787</created>
-      <option name="number" value="00338" />
-      <option name="presentableId" value="LOCAL-00338" />
-      <option name="project" value="LOCAL" />
-      <updated>1723267505787</updated>
-    </task>
-    <task id="LOCAL-00339" summary="POM selenium">
-      <created>1723275893323</created>
-      <option name="number" value="00339" />
-      <option name="presentableId" value="LOCAL-00339" />
-      <option name="project" value="LOCAL" />
-      <updated>1723275893323</updated>
-    </task>
-    <task id="LOCAL-00340" summary="POM selenium">
-      <created>1723346818332</created>
-      <option name="number" value="00340" />
-      <option name="presentableId" value="LOCAL-00340" />
-      <option name="project" value="LOCAL" />
-      <updated>1723346818332</updated>
-    </task>
-    <task id="LOCAL-00341" summary="POM selenium">
-      <created>1723349635382</created>
-      <option name="number" value="00341" />
-      <option name="presentableId" value="LOCAL-00341" />
-      <option name="project" value="LOCAL" />
-      <updated>1723349635382</updated>
-    </task>
-    <task id="LOCAL-00342" summary="POM selenium">
-      <created>1723349641439</created>
-      <option name="number" value="00342" />
-      <option name="presentableId" value="LOCAL-00342" />
-      <option name="project" value="LOCAL" />
-      <updated>1723349641439</updated>
-    </task>
-    <task id="LOCAL-00343" summary="POM selenium">
-      <created>1723349647309</created>
-      <option name="number" value="00343" />
-      <option name="presentableId" value="LOCAL-00343" />
-      <option name="project" value="LOCAL" />
-      <updated>1723349647309</updated>
-    </task>
-    <task id="LOCAL-00344" summary="POM selenium">
-      <created>1723349651524</created>
-      <option name="number" value="00344" />
-      <option name="presentableId" value="LOCAL-00344" />
-      <option name="project" value="LOCAL" />
-      <updated>1723349651524</updated>
-    </task>
-    <task id="LOCAL-00345" summary="POM selenium">
-      <created>1723349656384</created>
-      <option name="number" value="00345" />
-      <option name="presentableId" value="LOCAL-00345" />
-      <option name="project" value="LOCAL" />
-      <updated>1723349656384</updated>
-    </task>
-    <task id="LOCAL-00346" summary="POM selenium">
-      <created>1723349660599</created>
-      <option name="number" value="00346" />
-      <option name="presentableId" value="LOCAL-00346" />
-      <option name="project" value="LOCAL" />
-      <updated>1723349660599</updated>
-    </task>
-    <task id="LOCAL-00347" summary="POM selenium">
-      <created>1723349667556</created>
-      <option name="number" value="00347" />
-      <option name="presentableId" value="LOCAL-00347" />
-      <option name="project" value="LOCAL" />
-      <updated>1723349667556</updated>
     </task>
     <task id="LOCAL-00348" summary="POM selenium">
       <created>1723349671506</created>
@@ -490,7 +409,77 @@
       <option name="project" value="LOCAL" />
       <updated>1723952264541</updated>
     </task>
-    <option name="localTasksCounter" value="387" />
+    <task id="LOCAL-00387" summary="wait and iframe selenium">
+      <created>1723958200944</created>
+      <option name="number" value="00387" />
+      <option name="presentableId" value="LOCAL-00387" />
+      <option name="project" value="LOCAL" />
+      <updated>1723958200944</updated>
+    </task>
+    <task id="LOCAL-00388" summary="wait and iframe selenium">
+      <created>1723958207128</created>
+      <option name="number" value="00388" />
+      <option name="presentableId" value="LOCAL-00388" />
+      <option name="project" value="LOCAL" />
+      <updated>1723958207128</updated>
+    </task>
+    <task id="LOCAL-00389" summary="wait and iframe selenium">
+      <created>1723958210783</created>
+      <option name="number" value="00389" />
+      <option name="presentableId" value="LOCAL-00389" />
+      <option name="project" value="LOCAL" />
+      <updated>1723958210783</updated>
+    </task>
+    <task id="LOCAL-00390" summary="wait and iframe selenium">
+      <created>1723958216465</created>
+      <option name="number" value="00390" />
+      <option name="presentableId" value="LOCAL-00390" />
+      <option name="project" value="LOCAL" />
+      <updated>1723958216465</updated>
+    </task>
+    <task id="LOCAL-00391" summary="wait and iframe selenium">
+      <created>1723958221436</created>
+      <option name="number" value="00391" />
+      <option name="presentableId" value="LOCAL-00391" />
+      <option name="project" value="LOCAL" />
+      <updated>1723958221436</updated>
+    </task>
+    <task id="LOCAL-00392" summary="wait and iframe selenium">
+      <created>1723958227481</created>
+      <option name="number" value="00392" />
+      <option name="presentableId" value="LOCAL-00392" />
+      <option name="project" value="LOCAL" />
+      <updated>1723958227481</updated>
+    </task>
+    <task id="LOCAL-00393" summary="wait and iframe selenium">
+      <created>1723958232763</created>
+      <option name="number" value="00393" />
+      <option name="presentableId" value="LOCAL-00393" />
+      <option name="project" value="LOCAL" />
+      <updated>1723958232763</updated>
+    </task>
+    <task id="LOCAL-00394" summary="wait and iframe selenium">
+      <created>1723958236989</created>
+      <option name="number" value="00394" />
+      <option name="presentableId" value="LOCAL-00394" />
+      <option name="project" value="LOCAL" />
+      <updated>1723958236989</updated>
+    </task>
+    <task id="LOCAL-00395" summary="wait and iframe selenium">
+      <created>1723958243087</created>
+      <option name="number" value="00395" />
+      <option name="presentableId" value="LOCAL-00395" />
+      <option name="project" value="LOCAL" />
+      <updated>1723958243087</updated>
+    </task>
+    <task id="LOCAL-00396" summary="wait and iframe selenium">
+      <created>1723958246933</created>
+      <option name="number" value="00396" />
+      <option name="presentableId" value="LOCAL-00396" />
+      <option name="project" value="LOCAL" />
+      <updated>1723958246933</updated>
+    </task>
+    <option name="localTasksCounter" value="397" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
