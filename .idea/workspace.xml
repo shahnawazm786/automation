@@ -136,13 +136,6 @@
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
     </task>
-    <task id="LOCAL-00356" summary="POM selenium">
-      <created>1723356863202</created>
-      <option name="number" value="00356" />
-      <option name="presentableId" value="LOCAL-00356" />
-      <option name="project" value="LOCAL" />
-      <updated>1723356863203</updated>
-    </task>
     <task id="LOCAL-00357" summary="POM selenium">
       <created>1723356869279</created>
       <option name="number" value="00357" />
@@ -479,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725035186636</updated>
     </task>
-    <option name="localTasksCounter" value="405" />
+    <task id="LOCAL-00405" summary="wait and iframe selenium">
+      <created>1725420826186</created>
+      <option name="number" value="00405" />
+      <option name="presentableId" value="LOCAL-00405" />
+      <option name="project" value="LOCAL" />
+      <updated>1725420826187</updated>
+    </task>
+    <option name="localTasksCounter" value="406" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
