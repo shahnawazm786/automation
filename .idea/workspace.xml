@@ -54,7 +54,20 @@
       <recent name="C:\weekly-classes\automation\src\main\resources\drivers\chrome" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WindowsHandler">
+  <component name="RunManager" selected="Application.BrowserStackExample">
+    <configuration name="BrowserStackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="browserstack.BrowserStackExample" />
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="browserstack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IframeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="selenium.selenium_day09.IframeExample" />
       <module name="automation" />
@@ -74,19 +87,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="selenium.selenium_day09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WaitsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day08.WaitsExample" />
-      <module name="automation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="selenium.selenium_day08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BrowserStackExample" />
         <item itemvalue="Application.WindowsHandler" />
         <item itemvalue="Application.IframeExample" />
         <item itemvalue="Application.PopupWaitExample" />
         <item itemvalue="Application.selenium.selenium_day09.WaitsExample" />
-        <item itemvalue="Application.WaitsExample" />
       </list>
     </recent_temporary>
   </component>
@@ -138,20 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00360" summary="POM selenium">
-      <created>1723518370775</created>
-      <option name="number" value="00360" />
-      <option name="presentableId" value="LOCAL-00360" />
-      <option name="project" value="LOCAL" />
-      <updated>1723518370776</updated>
-    </task>
-    <task id="LOCAL-00361" summary="POM selenium">
-      <created>1723518966160</created>
-      <option name="number" value="00361" />
-      <option name="presentableId" value="LOCAL-00361" />
-      <option name="project" value="LOCAL" />
-      <updated>1723518966160</updated>
     </task>
     <task id="LOCAL-00362" summary="POM selenium">
       <created>1723868273477</created>
@@ -482,7 +468,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725421106430</updated>
     </task>
-    <option name="localTasksCounter" value="409" />
+    <task id="LOCAL-00409" summary="wait and iframe selenium">
+      <created>1725421154298</created>
+      <option name="number" value="00409" />
+      <option name="presentableId" value="LOCAL-00409" />
+      <option name="project" value="LOCAL" />
+      <updated>1725421154299</updated>
+    </task>
+    <task id="LOCAL-00410" summary="wait and iframe selenium">
+      <created>1725421166860</created>
+      <option name="number" value="00410" />
+      <option name="presentableId" value="LOCAL-00410" />
+      <option name="project" value="LOCAL" />
+      <updated>1725421166861</updated>
+    </task>
+    <option name="localTasksCounter" value="411" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
