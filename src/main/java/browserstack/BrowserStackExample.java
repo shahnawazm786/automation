@@ -17,13 +17,14 @@ public class BrowserStackExample {
         DesiredCapabilities cap=new DesiredCapabilities();
         /*cap.setCapability("browserstack.user",UserName);
         cap.setCapability("browserstack.key",AccessKey);*/
-        cap.setCapability("os","Windows");
-        cap.setCapability("osVersion","10");
+        //cap.setCapability("os","Windows");
+        //cap.setCapability("osVersion","10");
         cap.setCapability("browserName","Chrome");
         cap.setCapability("browserVersion","120.0");
         //WebDriver driver = new ChromeDriver();
         WebDriver driver=new RemoteWebDriver(new URL(Url),cap);
         driver.get("https://www.google.com");
+        driver.manage().window().maximize();
         System.out.println(driver.getTitle());
         System.out.println("Completed.....");
 
