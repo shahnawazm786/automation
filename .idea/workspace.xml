@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="wait and iframe selenium">
+      <change afterPath="$PROJECT_DIR$/src/main/java/browserstack/IBrowserStackStatus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/browserstack/BrowserStackExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/browserstack/BrowserStackExample.java" afterDir="false" />
@@ -20,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="HTML File" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -55,7 +56,7 @@
       <recent name="C:\weekly-classes\automation\src\main\resources\drivers\chrome" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BrowserStackExample">
+  <component name="RunManager" selected="TestNG.BrowserStackExample.DemoTest">
     <configuration name="BrowserStackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="browserstack.BrowserStackExample" />
       <module name="automation" />
@@ -108,26 +109,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="selenium.selenium_day09.WaitsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selenium.selenium_day09.WaitsExample" />
+    <configuration name="BrowserStackExample.DemoTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selenium.selenium_day09.*" />
+          <option name="PATTERN" value="browserstack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="browserstack" />
+      <option name="MAIN_CLASS_NAME" value="browserstack.BrowserStackExample" />
+      <option name="METHOD_NAME" value="DemoTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.BrowserStackExample.DemoTest" />
         <item itemvalue="Application.BrowserStackExample" />
         <item itemvalue="Application.WindowsHandler" />
         <item itemvalue="Application.IframeExample" />
         <item itemvalue="Application.PopupWaitExample" />
-        <item itemvalue="Application.selenium.selenium_day09.WaitsExample" />
       </list>
     </recent_temporary>
   </component>
@@ -139,27 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00369" summary="POM selenium">
-      <created>1723871570631</created>
-      <option name="number" value="00369" />
-      <option name="presentableId" value="LOCAL-00369" />
-      <option name="project" value="LOCAL" />
-      <updated>1723871570631</updated>
-    </task>
-    <task id="LOCAL-00370" summary="POM selenium">
-      <created>1723873452468</created>
-      <option name="number" value="00370" />
-      <option name="presentableId" value="LOCAL-00370" />
-      <option name="project" value="LOCAL" />
-      <updated>1723873452468</updated>
-    </task>
-    <task id="LOCAL-00371" summary="POM selenium">
-      <created>1723873455194</created>
-      <option name="number" value="00371" />
-      <option name="presentableId" value="LOCAL-00371" />
-      <option name="project" value="LOCAL" />
-      <updated>1723873455194</updated>
     </task>
     <task id="LOCAL-00372" summary="POM selenium">
       <created>1723873464348</created>
@@ -483,7 +468,28 @@
       <option name="project" value="LOCAL" />
       <updated>1725502184441</updated>
     </task>
-    <option name="localTasksCounter" value="418" />
+    <task id="LOCAL-00418" summary="wait and iframe selenium">
+      <created>1725503766691</created>
+      <option name="number" value="00418" />
+      <option name="presentableId" value="LOCAL-00418" />
+      <option name="project" value="LOCAL" />
+      <updated>1725503766691</updated>
+    </task>
+    <task id="LOCAL-00419" summary="wait and iframe selenium">
+      <created>1725503771778</created>
+      <option name="number" value="00419" />
+      <option name="presentableId" value="LOCAL-00419" />
+      <option name="project" value="LOCAL" />
+      <updated>1725503771778</updated>
+    </task>
+    <task id="LOCAL-00420" summary="wait and iframe selenium">
+      <created>1725503778447</created>
+      <option name="number" value="00420" />
+      <option name="presentableId" value="LOCAL-00420" />
+      <option name="project" value="LOCAL" />
+      <updated>1725503778447</updated>
+    </task>
+    <option name="localTasksCounter" value="421" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
