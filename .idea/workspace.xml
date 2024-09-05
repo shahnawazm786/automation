@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="wait and iframe selenium">
-      <change afterPath="$PROJECT_DIR$/src/main/java/browserstack/IBrowserStackStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/browserstack/BrowserStackExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/browserstack/BrowserStackExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/browserstack/IBrowserStackStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/browserstack/IBrowserStackStatus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,34 +142,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00372" summary="POM selenium">
-      <created>1723873464348</created>
-      <option name="number" value="00372" />
-      <option name="presentableId" value="LOCAL-00372" />
-      <option name="project" value="LOCAL" />
-      <updated>1723873464348</updated>
-    </task>
-    <task id="LOCAL-00373" summary="POM selenium">
-      <created>1723873580593</created>
-      <option name="number" value="00373" />
-      <option name="presentableId" value="LOCAL-00373" />
-      <option name="project" value="LOCAL" />
-      <updated>1723873580593</updated>
-    </task>
-    <task id="LOCAL-00374" summary="POM selenium">
-      <created>1723873584200</created>
-      <option name="number" value="00374" />
-      <option name="presentableId" value="LOCAL-00374" />
-      <option name="project" value="LOCAL" />
-      <updated>1723873584200</updated>
-    </task>
-    <task id="LOCAL-00375" summary="POM selenium">
-      <created>1723873815215</created>
-      <option name="number" value="00375" />
-      <option name="presentableId" value="LOCAL-00375" />
-      <option name="project" value="LOCAL" />
-      <updated>1723873815215</updated>
     </task>
     <task id="LOCAL-00376" summary="POM selenium">
       <created>1723875160626</created>
@@ -489,7 +458,35 @@
       <option name="project" value="LOCAL" />
       <updated>1725503778447</updated>
     </task>
-    <option name="localTasksCounter" value="421" />
+    <task id="LOCAL-00421" summary="wait and iframe selenium">
+      <created>1725507132496</created>
+      <option name="number" value="00421" />
+      <option name="presentableId" value="LOCAL-00421" />
+      <option name="project" value="LOCAL" />
+      <updated>1725507132496</updated>
+    </task>
+    <task id="LOCAL-00422" summary="wait and iframe selenium">
+      <created>1725507136648</created>
+      <option name="number" value="00422" />
+      <option name="presentableId" value="LOCAL-00422" />
+      <option name="project" value="LOCAL" />
+      <updated>1725507136648</updated>
+    </task>
+    <task id="LOCAL-00423" summary="wait and iframe selenium">
+      <created>1725507141583</created>
+      <option name="number" value="00423" />
+      <option name="presentableId" value="LOCAL-00423" />
+      <option name="project" value="LOCAL" />
+      <updated>1725507141583</updated>
+    </task>
+    <task id="LOCAL-00424" summary="wait and iframe selenium">
+      <created>1725507145783</created>
+      <option name="number" value="00424" />
+      <option name="presentableId" value="LOCAL-00424" />
+      <option name="project" value="LOCAL" />
+      <updated>1725507145783</updated>
+    </task>
+    <option name="localTasksCounter" value="425" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
