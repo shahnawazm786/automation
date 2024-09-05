@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="wait and iframe selenium">
-      <change beforePath="$PROJECT_DIR$/src/main/java/browserstack/IBrowserStackStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/browserstack/IBrowserStackStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/browserstack/BrowserStackExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/browserstack/BrowserStackExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,20 +142,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00376" summary="POM selenium">
-      <created>1723875160626</created>
-      <option name="number" value="00376" />
-      <option name="presentableId" value="LOCAL-00376" />
-      <option name="project" value="LOCAL" />
-      <updated>1723875160626</updated>
-    </task>
-    <task id="LOCAL-00377" summary="POM selenium">
-      <created>1723875163738</created>
-      <option name="number" value="00377" />
-      <option name="presentableId" value="LOCAL-00377" />
-      <option name="project" value="LOCAL" />
-      <updated>1723875163738</updated>
     </task>
     <task id="LOCAL-00378" summary="POM selenium">
       <created>1723875173909</created>
@@ -486,7 +472,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725507145783</updated>
     </task>
-    <option name="localTasksCounter" value="425" />
+    <task id="LOCAL-00425" summary="wait and iframe selenium">
+      <created>1725507215664</created>
+      <option name="number" value="00425" />
+      <option name="presentableId" value="LOCAL-00425" />
+      <option name="project" value="LOCAL" />
+      <updated>1725507215664</updated>
+    </task>
+    <task id="LOCAL-00426" summary="wait and iframe selenium">
+      <created>1725507223251</created>
+      <option name="number" value="00426" />
+      <option name="presentableId" value="LOCAL-00426" />
+      <option name="project" value="LOCAL" />
+      <updated>1725507223251</updated>
+    </task>
+    <option name="localTasksCounter" value="427" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
