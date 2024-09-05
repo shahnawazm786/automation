@@ -23,11 +23,6 @@ public class BrowserStackExample {
         DesiredCapabilities cap=new DesiredCapabilities();
         cap.setCapability("browserName","Chrome");
         cap.setCapability("browserVersion","128.0");
-        //cap.setCapability("buildName","Demo project");
-        //cap.setCapability("projectName","KAZ Automation Classes");
-        //cap.setCapability("os","Windows");
-        //cap.setCapability("osVersion","10");
-        //WebDriver driver = new ChromeDriver();
         WebDriver driver=new RemoteWebDriver(new URL(Url),cap);
         driver.get("https://www.google.com");
         driver.manage().window().maximize();
