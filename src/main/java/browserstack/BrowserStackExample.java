@@ -20,7 +20,7 @@ public class BrowserStackExample {
         //cap.setCapability("os","Windows");
         //cap.setCapability("osVersion","10");
         cap.setCapability("browserName","Chrome");
-        cap.setCapability("browserVersion","120.0");
+        cap.setCapability("browserVersion","128.0");
         //WebDriver driver = new ChromeDriver();
         WebDriver driver=new RemoteWebDriver(new URL(Url),cap);
         driver.get("https://www.google.com");
