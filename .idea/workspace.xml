@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="wait and iframe selenium">
-      <change beforePath="$PROJECT_DIR$/src/main/java/browserstack/BrowserStackExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/browserstack/BrowserStackExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="wait and iframe selenium" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,22 +106,40 @@
     </configuration>
     <configuration name="BrowserStackExample.DemoTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="automation" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="browserstack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="browserstack" />
       <option name="MAIN_CLASS_NAME" value="browserstack.BrowserStackExample" />
       <option name="METHOD_NAME" value="DemoTest" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.BrowserStackExample" />
+      <item itemvalue="Application.IframeExample" />
+      <item itemvalue="Application.PopupWaitExample" />
+      <item itemvalue="Application.WindowsHandler" />
+      <item itemvalue="TestNG.BrowserStackExample.DemoTest" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.BrowserStackExample.DemoTest" />
@@ -142,20 +158,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00380" summary="POM selenium">
-      <created>1723891008037</created>
-      <option name="number" value="00380" />
-      <option name="presentableId" value="LOCAL-00380" />
-      <option name="project" value="LOCAL" />
-      <updated>1723891008037</updated>
-    </task>
-    <task id="LOCAL-00381" summary="wait and iframe selenium">
-      <created>1723950073270</created>
-      <option name="number" value="00381" />
-      <option name="presentableId" value="LOCAL-00381" />
-      <option name="project" value="LOCAL" />
-      <updated>1723950073270</updated>
     </task>
     <task id="LOCAL-00382" summary="wait and iframe selenium">
       <created>1723952146851</created>
@@ -486,7 +488,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725507458681</updated>
     </task>
-    <option name="localTasksCounter" value="429" />
+    <task id="LOCAL-00429" summary="wait and iframe selenium">
+      <created>1725507490086</created>
+      <option name="number" value="00429" />
+      <option name="presentableId" value="LOCAL-00429" />
+      <option name="project" value="LOCAL" />
+      <updated>1725507490086</updated>
+    </task>
+    <task id="LOCAL-00430" summary="wait and iframe selenium">
+      <created>1725507494732</created>
+      <option name="number" value="00430" />
+      <option name="presentableId" value="LOCAL-00430" />
+      <option name="project" value="LOCAL" />
+      <updated>1725507494732</updated>
+    </task>
+    <option name="localTasksCounter" value="431" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
