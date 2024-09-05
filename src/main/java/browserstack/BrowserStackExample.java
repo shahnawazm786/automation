@@ -32,7 +32,7 @@ public class BrowserStackExample {
         driver.get("https://www.google.com");
         driver.manage().window().maximize();
         assertEquals("Google",driver.getTitle());
-        if(driver.getTitle().equalsIgnoreCase("Google")){
+        if(driver.getTitle().equalsIgnoreCase("Googles")){
             JavascriptExecutor jse=(JavascriptExecutor) driver;
             jse.executeScript(IBrowserStackStatus.STATUS_PASSED_JS,true);
         }
