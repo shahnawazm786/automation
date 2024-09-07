@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Browser Stack">
+    <test verbose="2" preserve-order="true" name="KAZ Learning Program">
+        <classes><class name="browserstack.BrowserStackExample">
+            <methods><include name="DemoTest"/>
+            </methods>
+        </class>
+        </classes>
+    </test>
+</suite>
