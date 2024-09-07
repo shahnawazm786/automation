@@ -6,6 +6,9 @@
             <methods><include name="DemoTest"/>
             </methods>
         </class>
+            <class name="testng.day01.TestNGAnnotationExample"></class>
+            <class name="testng.day01.TestNGExample"></class>
+            <class name="testng.day01.TestNGExample_01"></class>
         </classes>
     </test>
 </suite>
