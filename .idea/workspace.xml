@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="wait and iframe selenium">
-      <change afterPath="$PROJECT_DIR$/src/main/java/testng/day01/TestNGAnnotationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testng/day01/TestNGExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testng/day01/TestNGExample_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="testng day 01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,139 +191,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00389" summary="wait and iframe selenium">
-      <created>1723958210783</created>
-      <option name="number" value="00389" />
-      <option name="presentableId" value="LOCAL-00389" />
-      <option name="project" value="LOCAL" />
-      <updated>1723958210783</updated>
-    </task>
-    <task id="LOCAL-00390" summary="wait and iframe selenium">
-      <created>1723958216465</created>
-      <option name="number" value="00390" />
-      <option name="presentableId" value="LOCAL-00390" />
-      <option name="project" value="LOCAL" />
-      <updated>1723958216465</updated>
-    </task>
-    <task id="LOCAL-00391" summary="wait and iframe selenium">
-      <created>1723958221436</created>
-      <option name="number" value="00391" />
-      <option name="presentableId" value="LOCAL-00391" />
-      <option name="project" value="LOCAL" />
-      <updated>1723958221436</updated>
-    </task>
-    <task id="LOCAL-00392" summary="wait and iframe selenium">
-      <created>1723958227481</created>
-      <option name="number" value="00392" />
-      <option name="presentableId" value="LOCAL-00392" />
-      <option name="project" value="LOCAL" />
-      <updated>1723958227481</updated>
-    </task>
-    <task id="LOCAL-00393" summary="wait and iframe selenium">
-      <created>1723958232763</created>
-      <option name="number" value="00393" />
-      <option name="presentableId" value="LOCAL-00393" />
-      <option name="project" value="LOCAL" />
-      <updated>1723958232763</updated>
-    </task>
-    <task id="LOCAL-00394" summary="wait and iframe selenium">
-      <created>1723958236989</created>
-      <option name="number" value="00394" />
-      <option name="presentableId" value="LOCAL-00394" />
-      <option name="project" value="LOCAL" />
-      <updated>1723958236989</updated>
-    </task>
-    <task id="LOCAL-00395" summary="wait and iframe selenium">
-      <created>1723958243087</created>
-      <option name="number" value="00395" />
-      <option name="presentableId" value="LOCAL-00395" />
-      <option name="project" value="LOCAL" />
-      <updated>1723958243087</updated>
-    </task>
-    <task id="LOCAL-00396" summary="wait and iframe selenium">
-      <created>1723958246933</created>
-      <option name="number" value="00396" />
-      <option name="presentableId" value="LOCAL-00396" />
-      <option name="project" value="LOCAL" />
-      <updated>1723958246933</updated>
-    </task>
-    <task id="LOCAL-00397" summary="wait and iframe selenium">
-      <created>1724125845352</created>
-      <option name="number" value="00397" />
-      <option name="presentableId" value="LOCAL-00397" />
-      <option name="project" value="LOCAL" />
-      <updated>1724125845353</updated>
-    </task>
-    <task id="LOCAL-00398" summary="wait and iframe selenium">
-      <created>1724126914112</created>
-      <option name="number" value="00398" />
-      <option name="presentableId" value="LOCAL-00398" />
-      <option name="project" value="LOCAL" />
-      <updated>1724126914112</updated>
-    </task>
-    <task id="LOCAL-00399" summary="wait and iframe selenium">
-      <created>1724126923940</created>
-      <option name="number" value="00399" />
-      <option name="presentableId" value="LOCAL-00399" />
-      <option name="project" value="LOCAL" />
-      <updated>1724126923940</updated>
-    </task>
-    <task id="LOCAL-00400" summary="wait and iframe selenium">
-      <created>1724206675976</created>
-      <option name="number" value="00400" />
-      <option name="presentableId" value="LOCAL-00400" />
-      <option name="project" value="LOCAL" />
-      <updated>1724206675976</updated>
-    </task>
-    <task id="LOCAL-00401" summary="wait and iframe selenium">
-      <created>1724470489021</created>
-      <option name="number" value="00401" />
-      <option name="presentableId" value="LOCAL-00401" />
-      <option name="project" value="LOCAL" />
-      <updated>1724470489021</updated>
-    </task>
-    <task id="LOCAL-00402" summary="wait and iframe selenium">
-      <created>1724724935583</created>
-      <option name="number" value="00402" />
-      <option name="presentableId" value="LOCAL-00402" />
-      <option name="project" value="LOCAL" />
-      <updated>1724724935583</updated>
-    </task>
-    <task id="LOCAL-00403" summary="wait and iframe selenium">
-      <created>1724813587225</created>
-      <option name="number" value="00403" />
-      <option name="presentableId" value="LOCAL-00403" />
-      <option name="project" value="LOCAL" />
-      <updated>1724813587225</updated>
-    </task>
-    <task id="LOCAL-00404" summary="wait and iframe selenium">
-      <created>1725035186636</created>
-      <option name="number" value="00404" />
-      <option name="presentableId" value="LOCAL-00404" />
-      <option name="project" value="LOCAL" />
-      <updated>1725035186636</updated>
-    </task>
-    <task id="LOCAL-00405" summary="wait and iframe selenium">
-      <created>1725420826186</created>
-      <option name="number" value="00405" />
-      <option name="presentableId" value="LOCAL-00405" />
-      <option name="project" value="LOCAL" />
-      <updated>1725420826187</updated>
-    </task>
-    <task id="LOCAL-00406" summary="wait and iframe selenium">
-      <created>1725420867918</created>
-      <option name="number" value="00406" />
-      <option name="presentableId" value="LOCAL-00406" />
-      <option name="project" value="LOCAL" />
-      <updated>1725420867918</updated>
-    </task>
-    <task id="LOCAL-00407" summary="wait and iframe selenium">
-      <created>1725421097554</created>
-      <option name="number" value="00407" />
-      <option name="presentableId" value="LOCAL-00407" />
-      <option name="project" value="LOCAL" />
-      <updated>1725421097554</updated>
     </task>
     <task id="LOCAL-00408" summary="wait and iframe selenium">
       <created>1725421106429</created>
@@ -540,7 +402,140 @@
       <option name="project" value="LOCAL" />
       <updated>1725683564538</updated>
     </task>
-    <option name="localTasksCounter" value="438" />
+    <task id="LOCAL-00438" summary="wait and iframe selenium">
+      <created>1725685870689</created>
+      <option name="number" value="00438" />
+      <option name="presentableId" value="LOCAL-00438" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685870689</updated>
+    </task>
+    <task id="LOCAL-00439" summary="testng day 01">
+      <created>1725685889854</created>
+      <option name="number" value="00439" />
+      <option name="presentableId" value="LOCAL-00439" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685889854</updated>
+    </task>
+    <task id="LOCAL-00440" summary="testng day 01">
+      <created>1725685900908</created>
+      <option name="number" value="00440" />
+      <option name="presentableId" value="LOCAL-00440" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685900908</updated>
+    </task>
+    <task id="LOCAL-00441" summary="testng day 01">
+      <created>1725685905559</created>
+      <option name="number" value="00441" />
+      <option name="presentableId" value="LOCAL-00441" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685905559</updated>
+    </task>
+    <task id="LOCAL-00442" summary="testng day 01">
+      <created>1725685923274</created>
+      <option name="number" value="00442" />
+      <option name="presentableId" value="LOCAL-00442" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685923274</updated>
+    </task>
+    <task id="LOCAL-00443" summary="testng day 01">
+      <created>1725685928235</created>
+      <option name="number" value="00443" />
+      <option name="presentableId" value="LOCAL-00443" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685928235</updated>
+    </task>
+    <task id="LOCAL-00444" summary="testng day 01">
+      <created>1725685932133</created>
+      <option name="number" value="00444" />
+      <option name="presentableId" value="LOCAL-00444" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685932133</updated>
+    </task>
+    <task id="LOCAL-00445" summary="testng day 01">
+      <created>1725685940253</created>
+      <option name="number" value="00445" />
+      <option name="presentableId" value="LOCAL-00445" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685940253</updated>
+    </task>
+    <task id="LOCAL-00446" summary="testng day 01">
+      <created>1725685947737</created>
+      <option name="number" value="00446" />
+      <option name="presentableId" value="LOCAL-00446" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685947737</updated>
+    </task>
+    <task id="LOCAL-00447" summary="testng day 01">
+      <created>1725685955568</created>
+      <option name="number" value="00447" />
+      <option name="presentableId" value="LOCAL-00447" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685955568</updated>
+    </task>
+    <task id="LOCAL-00448" summary="testng day 01">
+      <created>1725685960903</created>
+      <option name="number" value="00448" />
+      <option name="presentableId" value="LOCAL-00448" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685960903</updated>
+    </task>
+    <task id="LOCAL-00449" summary="testng day 01">
+      <created>1725685964960</created>
+      <option name="number" value="00449" />
+      <option name="presentableId" value="LOCAL-00449" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685964960</updated>
+    </task>
+    <task id="LOCAL-00450" summary="testng day 01">
+      <created>1725685968979</created>
+      <option name="number" value="00450" />
+      <option name="presentableId" value="LOCAL-00450" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685968979</updated>
+    </task>
+    <task id="LOCAL-00451" summary="testng day 01">
+      <created>1725685975365</created>
+      <option name="number" value="00451" />
+      <option name="presentableId" value="LOCAL-00451" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685975365</updated>
+    </task>
+    <task id="LOCAL-00452" summary="testng day 01">
+      <created>1725685982579</created>
+      <option name="number" value="00452" />
+      <option name="presentableId" value="LOCAL-00452" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685982579</updated>
+    </task>
+    <task id="LOCAL-00453" summary="testng day 01">
+      <created>1725685986584</created>
+      <option name="number" value="00453" />
+      <option name="presentableId" value="LOCAL-00453" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685986584</updated>
+    </task>
+    <task id="LOCAL-00454" summary="testng day 01">
+      <created>1725685991287</created>
+      <option name="number" value="00454" />
+      <option name="presentableId" value="LOCAL-00454" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685991287</updated>
+    </task>
+    <task id="LOCAL-00455" summary="testng day 01">
+      <created>1725685995053</created>
+      <option name="number" value="00455" />
+      <option name="presentableId" value="LOCAL-00455" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685995053</updated>
+    </task>
+    <task id="LOCAL-00456" summary="testng day 01">
+      <created>1725685998409</created>
+      <option name="number" value="00456" />
+      <option name="presentableId" value="LOCAL-00456" />
+      <option name="project" value="LOCAL" />
+      <updated>1725685998409</updated>
+    </task>
+    <option name="localTasksCounter" value="457" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -603,7 +598,8 @@
     <MESSAGE value="xpath selenium" />
     <MESSAGE value="POM selenium" />
     <MESSAGE value="wait and iframe selenium" />
-    <option name="LAST_COMMIT_MESSAGE" value="wait and iframe selenium" />
+    <MESSAGE value="testng day 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="testng day 01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
