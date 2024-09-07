@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="testng day 01">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
       <recent name="C:\weekly-classes\automation\src\main\resources\drivers\chrome" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestNGAnnotationExample.TestAnnotation2">
+  <component name="RunManager" selected="TestNG.C:/weekly-classes/automation/testng.xml">
     <configuration name="BrowserStack" type="TestNG">
       <module name="automation" />
       <shortenClasspath name="NONE" />
@@ -72,6 +72,16 @@
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="true" />
       <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/weekly-classes/automation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -149,39 +159,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNGExample_01.LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="automation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testng.day01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testng.day01" />
-      <option name="MAIN_CLASS_NAME" value="testng.day01.TestNGExample_01" />
-      <option name="METHOD_NAME" value="LoginTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="TestNG.BrowserStack" />
+      <item itemvalue="TestNG.C:/weekly-classes/automation/testng.xml" />
       <item itemvalue="TestNG.TestNGAnnotationExample" />
       <item itemvalue="TestNG.TestNGAnnotationExample.TestAnnotation" />
       <item itemvalue="TestNG.TestNGAnnotationExample.TestAnnotation2" />
       <item itemvalue="TestNG.TestNGExample_01.HomeLinkTest" />
-      <item itemvalue="TestNG.TestNGExample_01.LoginTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/weekly-classes/automation/testng.xml" />
         <item itemvalue="TestNG.TestNGAnnotationExample.TestAnnotation2" />
         <item itemvalue="TestNG.TestNGAnnotationExample" />
         <item itemvalue="TestNG.TestNGAnnotationExample.TestAnnotation" />
         <item itemvalue="TestNG.TestNGExample_01.HomeLinkTest" />
-        <item itemvalue="TestNG.TestNGExample_01.LoginTest" />
       </list>
     </recent_temporary>
   </component>
@@ -193,20 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00409" summary="wait and iframe selenium">
-      <created>1725421154298</created>
-      <option name="number" value="00409" />
-      <option name="presentableId" value="LOCAL-00409" />
-      <option name="project" value="LOCAL" />
-      <updated>1725421154299</updated>
-    </task>
-    <task id="LOCAL-00410" summary="wait and iframe selenium">
-      <created>1725421166860</created>
-      <option name="number" value="00410" />
-      <option name="presentableId" value="LOCAL-00410" />
-      <option name="project" value="LOCAL" />
-      <updated>1725421166861</updated>
     </task>
     <task id="LOCAL-00411" summary="wait and iframe selenium">
       <created>1725422250648</created>
@@ -537,7 +515,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725686369240</updated>
     </task>
-    <option name="localTasksCounter" value="458" />
+    <task id="LOCAL-00458" summary="testng day 01">
+      <created>1725686407562</created>
+      <option name="number" value="00458" />
+      <option name="presentableId" value="LOCAL-00458" />
+      <option name="project" value="LOCAL" />
+      <updated>1725686407562</updated>
+    </task>
+    <task id="LOCAL-00459" summary="testng day 01">
+      <created>1725686410510</created>
+      <option name="number" value="00459" />
+      <option name="presentableId" value="LOCAL-00459" />
+      <option name="project" value="LOCAL" />
+      <updated>1725686410510</updated>
+    </task>
+    <option name="localTasksCounter" value="460" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
