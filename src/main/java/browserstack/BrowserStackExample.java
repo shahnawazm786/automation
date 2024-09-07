@@ -5,6 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.Reporter;
 import org.testng.annotations.Test;
 
 import java.net.MalformedURLException;
@@ -20,6 +21,7 @@ public class BrowserStackExample {
         final String UserName="automationseleni_k7KD4O";
         final String AccessKey="vKYs2WpvYbyby6CYQ7T7";
         String Url="https://"+UserName+":"+AccessKey+"@hub-cloud.browserstack.com/wd/hub";
+        Reporter.log("Set the desired capability for the browser stack");
         DesiredCapabilities cap=new DesiredCapabilities();
         cap.setCapability("browserName","Chrome");
         cap.setCapability("browserVersion","128.0");
@@ -27,7 +29,7 @@ public class BrowserStackExample {
         driver.get("https://www.google.com");
         driver.manage().window().maximize();
         assertEquals("Google",driver.getTitle());
-        if(driver.getTitle().equalsIgnoreCase("Googles")){
+        if(driver.getTitle().equalsIgnoreCase("Google")){
             JavascriptExecutor jse=(JavascriptExecutor) driver;
             jse.executeScript(IBrowserStackStatus.STATUS_PASSED_JS,true);
         }
