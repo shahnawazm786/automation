@@ -4,31 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="testng day 01">
-      <change afterPath="$PROJECT_DIR$/src/main/java/testng/day02/TestNGAlwaysRunExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testng/day02/TestNGParameterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testng/day02/TestNGPassandFailedandSkippedTest.java" afterDir="false" />
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="testng day 02">
+      <change afterPath="$PROJECT_DIR$/src/main/java/testng/day02/DataProviderClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testng/day02/TestNGExceptionHandlingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testng/day02/TestNGTimeOutExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Browser Stack/KAZ Learning Program.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Browser Stack/KAZ Learning Program.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/jquery-3.6.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-testng.day01.TestNGAnnotationExample.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-testng.day01.TestNGExample.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-testng.day01.TestNGExample_01.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-reports1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-reports2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +58,7 @@
       <recent name="C:\weekly-classes\automation\src\main\resources\drivers\chrome" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestNGAlwaysRunExample">
+  <component name="RunManager" selected="TestNG.DataProviderClassExample.testGender">
     <configuration name="BrowserStack" type="TestNG">
       <module name="automation" />
       <shortenClasspath name="NONE" />
@@ -101,27 +81,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/weekly-classes/automation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="automation" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="USE_DEFAULT_REPORTERS" value="true" />
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestNGAlwaysRunExample" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DataProviderClassExample.testAge" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="automation" />
       <extension name="coverage">
         <pattern>
@@ -130,32 +90,16 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testng.day02" />
-      <option name="MAIN_CLASS_NAME" value="testng.day02.TestNGAlwaysRunExample" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="testng.day02.DataProviderClassExample" />
+      <option name="METHOD_NAME" value="testAge" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNGExample_03" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="automation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testng.day01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testng.day01" />
-      <option name="MAIN_CLASS_NAME" value="testng.day01.TestNGExample_03" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestNGParameterExample" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DataProviderClassExample.testGender" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="automation" />
       <extension name="coverage">
         <pattern>
@@ -164,15 +108,16 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testng.day02" />
-      <option name="MAIN_CLASS_NAME" value="testng.day02.TestNGParameterExample" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="testng.day02.DataProviderClassExample" />
+      <option name="METHOD_NAME" value="testGender" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNGPassandFailedandSkippedTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DataProviderClassExample.testLogn" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="automation" />
       <extension name="coverage">
         <pattern>
@@ -181,8 +126,44 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testng.day02" />
-      <option name="MAIN_CLASS_NAME" value="testng.day02.TestNGPassandFailedandSkippedTest" />
+      <option name="MAIN_CLASS_NAME" value="testng.day02.DataProviderClassExample" />
+      <option name="METHOD_NAME" value="testLogn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGExceptionHandlingExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testng.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testng.day02" />
+      <option name="MAIN_CLASS_NAME" value="testng.day02.TestNGExceptionHandlingExample" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGExceptionHandlingExample.testThree" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testng.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testng.day02" />
+      <option name="MAIN_CLASS_NAME" value="testng.day02.TestNGExceptionHandlingExample" />
+      <option name="METHOD_NAME" value="testThree" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -191,19 +172,19 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.BrowserStack" />
-      <item itemvalue="TestNG.TestNGAlwaysRunExample" />
-      <item itemvalue="TestNG.TestNGExample_03" />
-      <item itemvalue="TestNG.TestNGParameterExample" />
-      <item itemvalue="TestNG.TestNGPassandFailedandSkippedTest" />
-      <item itemvalue="TestNG.C:/weekly-classes/automation/testng.xml" />
+      <item itemvalue="TestNG.DataProviderClassExample.testAge" />
+      <item itemvalue="TestNG.DataProviderClassExample.testGender" />
+      <item itemvalue="TestNG.DataProviderClassExample.testLogn" />
+      <item itemvalue="TestNG.TestNGExceptionHandlingExample" />
+      <item itemvalue="TestNG.TestNGExceptionHandlingExample.testThree" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestNGAlwaysRunExample" />
-        <item itemvalue="TestNG.C:/weekly-classes/automation/testng.xml" />
-        <item itemvalue="TestNG.TestNGParameterExample" />
-        <item itemvalue="TestNG.TestNGPassandFailedandSkippedTest" />
-        <item itemvalue="TestNG.TestNGExample_03" />
+        <item itemvalue="TestNG.DataProviderClassExample.testGender" />
+        <item itemvalue="TestNG.DataProviderClassExample.testAge" />
+        <item itemvalue="TestNG.DataProviderClassExample.testLogn" />
+        <item itemvalue="TestNG.TestNGExceptionHandlingExample.testThree" />
+        <item itemvalue="TestNG.TestNGExceptionHandlingExample" />
       </list>
     </recent_temporary>
   </component>
@@ -216,350 +197,350 @@
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
     </task>
-    <task id="LOCAL-00453" summary="testng day 01">
-      <created>1725685986584</created>
-      <option name="number" value="00453" />
-      <option name="presentableId" value="LOCAL-00453" />
+    <task id="LOCAL-00515" summary="testng day 02">
+      <created>1725772436039</created>
+      <option name="number" value="00515" />
+      <option name="presentableId" value="LOCAL-00515" />
       <option name="project" value="LOCAL" />
-      <updated>1725685986584</updated>
+      <updated>1725772436039</updated>
     </task>
-    <task id="LOCAL-00454" summary="testng day 01">
-      <created>1725685991287</created>
-      <option name="number" value="00454" />
-      <option name="presentableId" value="LOCAL-00454" />
+    <task id="LOCAL-00516" summary="testng day 02">
+      <created>1725772444366</created>
+      <option name="number" value="00516" />
+      <option name="presentableId" value="LOCAL-00516" />
       <option name="project" value="LOCAL" />
-      <updated>1725685991287</updated>
+      <updated>1725772444366</updated>
     </task>
-    <task id="LOCAL-00455" summary="testng day 01">
-      <created>1725685995053</created>
-      <option name="number" value="00455" />
-      <option name="presentableId" value="LOCAL-00455" />
+    <task id="LOCAL-00517" summary="testng day 02">
+      <created>1725772448670</created>
+      <option name="number" value="00517" />
+      <option name="presentableId" value="LOCAL-00517" />
       <option name="project" value="LOCAL" />
-      <updated>1725685995053</updated>
+      <updated>1725772448670</updated>
     </task>
-    <task id="LOCAL-00456" summary="testng day 01">
-      <created>1725685998409</created>
-      <option name="number" value="00456" />
-      <option name="presentableId" value="LOCAL-00456" />
+    <task id="LOCAL-00518" summary="testng day 02">
+      <created>1725772453711</created>
+      <option name="number" value="00518" />
+      <option name="presentableId" value="LOCAL-00518" />
       <option name="project" value="LOCAL" />
-      <updated>1725685998409</updated>
+      <updated>1725772453711</updated>
     </task>
-    <task id="LOCAL-00457" summary="testng day 01">
-      <created>1725686369239</created>
-      <option name="number" value="00457" />
-      <option name="presentableId" value="LOCAL-00457" />
+    <task id="LOCAL-00519" summary="testng day 02">
+      <created>1725772459656</created>
+      <option name="number" value="00519" />
+      <option name="presentableId" value="LOCAL-00519" />
       <option name="project" value="LOCAL" />
-      <updated>1725686369240</updated>
+      <updated>1725772459656</updated>
     </task>
-    <task id="LOCAL-00458" summary="testng day 01">
-      <created>1725686407562</created>
-      <option name="number" value="00458" />
-      <option name="presentableId" value="LOCAL-00458" />
+    <task id="LOCAL-00520" summary="testng day 02">
+      <created>1725772464212</created>
+      <option name="number" value="00520" />
+      <option name="presentableId" value="LOCAL-00520" />
       <option name="project" value="LOCAL" />
-      <updated>1725686407562</updated>
+      <updated>1725772464212</updated>
     </task>
-    <task id="LOCAL-00459" summary="testng day 01">
-      <created>1725686410510</created>
-      <option name="number" value="00459" />
-      <option name="presentableId" value="LOCAL-00459" />
+    <task id="LOCAL-00521" summary="testng day 02">
+      <created>1725772468602</created>
+      <option name="number" value="00521" />
+      <option name="presentableId" value="LOCAL-00521" />
       <option name="project" value="LOCAL" />
-      <updated>1725686410510</updated>
+      <updated>1725772468603</updated>
     </task>
-    <task id="LOCAL-00460" summary="testng day 01">
-      <created>1725686591256</created>
-      <option name="number" value="00460" />
-      <option name="presentableId" value="LOCAL-00460" />
+    <task id="LOCAL-00522" summary="testng day 02">
+      <created>1725772472776</created>
+      <option name="number" value="00522" />
+      <option name="presentableId" value="LOCAL-00522" />
       <option name="project" value="LOCAL" />
-      <updated>1725686591256</updated>
+      <updated>1725772472776</updated>
     </task>
-    <task id="LOCAL-00461" summary="testng day 01">
-      <created>1725686595737</created>
-      <option name="number" value="00461" />
-      <option name="presentableId" value="LOCAL-00461" />
+    <task id="LOCAL-00523" summary="testng day 02">
+      <created>1725772478879</created>
+      <option name="number" value="00523" />
+      <option name="presentableId" value="LOCAL-00523" />
       <option name="project" value="LOCAL" />
-      <updated>1725686595737</updated>
+      <updated>1725772478879</updated>
     </task>
-    <task id="LOCAL-00462" summary="testng day 01">
-      <created>1725686989116</created>
-      <option name="number" value="00462" />
-      <option name="presentableId" value="LOCAL-00462" />
+    <task id="LOCAL-00524" summary="testng day 02">
+      <created>1725772483300</created>
+      <option name="number" value="00524" />
+      <option name="presentableId" value="LOCAL-00524" />
       <option name="project" value="LOCAL" />
-      <updated>1725686989116</updated>
+      <updated>1725772483300</updated>
     </task>
-    <task id="LOCAL-00463" summary="testng day 01">
-      <created>1725686993626</created>
-      <option name="number" value="00463" />
-      <option name="presentableId" value="LOCAL-00463" />
+    <task id="LOCAL-00525" summary="testng day 02">
+      <created>1725772488181</created>
+      <option name="number" value="00525" />
+      <option name="presentableId" value="LOCAL-00525" />
       <option name="project" value="LOCAL" />
-      <updated>1725686993627</updated>
+      <updated>1725772488181</updated>
     </task>
-    <task id="LOCAL-00464" summary="testng day 01">
-      <created>1725686997355</created>
-      <option name="number" value="00464" />
-      <option name="presentableId" value="LOCAL-00464" />
+    <task id="LOCAL-00526" summary="testng day 02">
+      <created>1725772873080</created>
+      <option name="number" value="00526" />
+      <option name="presentableId" value="LOCAL-00526" />
       <option name="project" value="LOCAL" />
-      <updated>1725686997355</updated>
+      <updated>1725772873080</updated>
     </task>
-    <task id="LOCAL-00465" summary="testng day 01">
-      <created>1725687001234</created>
-      <option name="number" value="00465" />
-      <option name="presentableId" value="LOCAL-00465" />
+    <task id="LOCAL-00527" summary="testng day 02">
+      <created>1725772883188</created>
+      <option name="number" value="00527" />
+      <option name="presentableId" value="LOCAL-00527" />
       <option name="project" value="LOCAL" />
-      <updated>1725687001234</updated>
+      <updated>1725772883188</updated>
     </task>
-    <task id="LOCAL-00466" summary="testng day 01">
-      <created>1725687007142</created>
-      <option name="number" value="00466" />
-      <option name="presentableId" value="LOCAL-00466" />
+    <task id="LOCAL-00528" summary="testng day 02">
+      <created>1725772888624</created>
+      <option name="number" value="00528" />
+      <option name="presentableId" value="LOCAL-00528" />
       <option name="project" value="LOCAL" />
-      <updated>1725687007142</updated>
+      <updated>1725772888624</updated>
     </task>
-    <task id="LOCAL-00467" summary="testng day 01">
-      <created>1725687011157</created>
-      <option name="number" value="00467" />
-      <option name="presentableId" value="LOCAL-00467" />
+    <task id="LOCAL-00529" summary="testng day 02">
+      <created>1725772894156</created>
+      <option name="number" value="00529" />
+      <option name="presentableId" value="LOCAL-00529" />
       <option name="project" value="LOCAL" />
-      <updated>1725687011157</updated>
+      <updated>1725772894156</updated>
     </task>
-    <task id="LOCAL-00468" summary="testng day 01">
-      <created>1725687018573</created>
-      <option name="number" value="00468" />
-      <option name="presentableId" value="LOCAL-00468" />
+    <task id="LOCAL-00530" summary="testng day 02">
+      <created>1725772898500</created>
+      <option name="number" value="00530" />
+      <option name="presentableId" value="LOCAL-00530" />
       <option name="project" value="LOCAL" />
-      <updated>1725687018573</updated>
+      <updated>1725772898500</updated>
     </task>
-    <task id="LOCAL-00469" summary="testng day 01">
-      <created>1725687028090</created>
-      <option name="number" value="00469" />
-      <option name="presentableId" value="LOCAL-00469" />
+    <task id="LOCAL-00531" summary="testng day 02">
+      <created>1725772903144</created>
+      <option name="number" value="00531" />
+      <option name="presentableId" value="LOCAL-00531" />
       <option name="project" value="LOCAL" />
-      <updated>1725687028090</updated>
+      <updated>1725772903144</updated>
     </task>
-    <task id="LOCAL-00470" summary="testng day 01">
-      <created>1725687033051</created>
-      <option name="number" value="00470" />
-      <option name="presentableId" value="LOCAL-00470" />
+    <task id="LOCAL-00532" summary="testng day 02">
+      <created>1725772906323</created>
+      <option name="number" value="00532" />
+      <option name="presentableId" value="LOCAL-00532" />
       <option name="project" value="LOCAL" />
-      <updated>1725687033051</updated>
+      <updated>1725772906323</updated>
     </task>
-    <task id="LOCAL-00471" summary="testng day 01">
-      <created>1725687037353</created>
-      <option name="number" value="00471" />
-      <option name="presentableId" value="LOCAL-00471" />
+    <task id="LOCAL-00533" summary="testng day 02">
+      <created>1725772909533</created>
+      <option name="number" value="00533" />
+      <option name="presentableId" value="LOCAL-00533" />
       <option name="project" value="LOCAL" />
-      <updated>1725687037353</updated>
+      <updated>1725772909533</updated>
     </task>
-    <task id="LOCAL-00472" summary="testng day 01">
-      <created>1725687041165</created>
-      <option name="number" value="00472" />
-      <option name="presentableId" value="LOCAL-00472" />
+    <task id="LOCAL-00534" summary="testng day 02">
+      <created>1725772916264</created>
+      <option name="number" value="00534" />
+      <option name="presentableId" value="LOCAL-00534" />
       <option name="project" value="LOCAL" />
-      <updated>1725687041165</updated>
+      <updated>1725772916264</updated>
     </task>
-    <task id="LOCAL-00473" summary="testng day 01">
-      <created>1725687046125</created>
-      <option name="number" value="00473" />
-      <option name="presentableId" value="LOCAL-00473" />
+    <task id="LOCAL-00535" summary="testng day 02">
+      <created>1725772921283</created>
+      <option name="number" value="00535" />
+      <option name="presentableId" value="LOCAL-00535" />
       <option name="project" value="LOCAL" />
-      <updated>1725687046125</updated>
+      <updated>1725772921283</updated>
     </task>
-    <task id="LOCAL-00474" summary="testng day 01">
-      <created>1725687055018</created>
-      <option name="number" value="00474" />
-      <option name="presentableId" value="LOCAL-00474" />
+    <task id="LOCAL-00536" summary="testng day 02">
+      <created>1725772926255</created>
+      <option name="number" value="00536" />
+      <option name="presentableId" value="LOCAL-00536" />
       <option name="project" value="LOCAL" />
-      <updated>1725687055018</updated>
+      <updated>1725772926255</updated>
     </task>
-    <task id="LOCAL-00475" summary="testng day 01">
-      <created>1725687093003</created>
-      <option name="number" value="00475" />
-      <option name="presentableId" value="LOCAL-00475" />
+    <task id="LOCAL-00537" summary="testng day 02">
+      <created>1725772934521</created>
+      <option name="number" value="00537" />
+      <option name="presentableId" value="LOCAL-00537" />
       <option name="project" value="LOCAL" />
-      <updated>1725687093004</updated>
+      <updated>1725772934521</updated>
     </task>
-    <task id="LOCAL-00476" summary="testng day 01">
-      <created>1725687096677</created>
-      <option name="number" value="00476" />
-      <option name="presentableId" value="LOCAL-00476" />
+    <task id="LOCAL-00538" summary="testng day 02">
+      <created>1725772941259</created>
+      <option name="number" value="00538" />
+      <option name="presentableId" value="LOCAL-00538" />
       <option name="project" value="LOCAL" />
-      <updated>1725687096677</updated>
+      <updated>1725772941259</updated>
     </task>
-    <task id="LOCAL-00477" summary="testng day 01">
-      <created>1725687100811</created>
-      <option name="number" value="00477" />
-      <option name="presentableId" value="LOCAL-00477" />
+    <task id="LOCAL-00539" summary="testng day 02">
+      <created>1725772945357</created>
+      <option name="number" value="00539" />
+      <option name="presentableId" value="LOCAL-00539" />
       <option name="project" value="LOCAL" />
-      <updated>1725687100811</updated>
+      <updated>1725772945357</updated>
     </task>
-    <task id="LOCAL-00478" summary="testng day 01">
-      <created>1725687105126</created>
-      <option name="number" value="00478" />
-      <option name="presentableId" value="LOCAL-00478" />
+    <task id="LOCAL-00540" summary="testng day 02">
+      <created>1725772948691</created>
+      <option name="number" value="00540" />
+      <option name="presentableId" value="LOCAL-00540" />
       <option name="project" value="LOCAL" />
-      <updated>1725687105126</updated>
+      <updated>1725772948691</updated>
     </task>
-    <task id="LOCAL-00479" summary="testng day 01">
-      <created>1725687109009</created>
-      <option name="number" value="00479" />
-      <option name="presentableId" value="LOCAL-00479" />
+    <task id="LOCAL-00541" summary="testng day 02">
+      <created>1725772952917</created>
+      <option name="number" value="00541" />
+      <option name="presentableId" value="LOCAL-00541" />
       <option name="project" value="LOCAL" />
-      <updated>1725687109009</updated>
+      <updated>1725772952917</updated>
     </task>
-    <task id="LOCAL-00480" summary="testng day 01">
-      <created>1725687113188</created>
-      <option name="number" value="00480" />
-      <option name="presentableId" value="LOCAL-00480" />
+    <task id="LOCAL-00542" summary="testng day 02">
+      <created>1725772956113</created>
+      <option name="number" value="00542" />
+      <option name="presentableId" value="LOCAL-00542" />
       <option name="project" value="LOCAL" />
-      <updated>1725687113188</updated>
+      <updated>1725772956114</updated>
     </task>
-    <task id="LOCAL-00481" summary="testng day 01">
-      <created>1725687118469</created>
-      <option name="number" value="00481" />
-      <option name="presentableId" value="LOCAL-00481" />
+    <task id="LOCAL-00543" summary="testng day 02">
+      <created>1725772959265</created>
+      <option name="number" value="00543" />
+      <option name="presentableId" value="LOCAL-00543" />
       <option name="project" value="LOCAL" />
-      <updated>1725687118469</updated>
+      <updated>1725772959265</updated>
     </task>
-    <task id="LOCAL-00482" summary="testng day 01">
-      <created>1725687121143</created>
-      <option name="number" value="00482" />
-      <option name="presentableId" value="LOCAL-00482" />
+    <task id="LOCAL-00544" summary="testng day 02">
+      <created>1725772999193</created>
+      <option name="number" value="00544" />
+      <option name="presentableId" value="LOCAL-00544" />
       <option name="project" value="LOCAL" />
-      <updated>1725687121143</updated>
+      <updated>1725772999193</updated>
     </task>
-    <task id="LOCAL-00483" summary="testng day 01">
-      <created>1725687126917</created>
-      <option name="number" value="00483" />
-      <option name="presentableId" value="LOCAL-00483" />
+    <task id="LOCAL-00545" summary="testng day 02">
+      <created>1725773002813</created>
+      <option name="number" value="00545" />
+      <option name="presentableId" value="LOCAL-00545" />
       <option name="project" value="LOCAL" />
-      <updated>1725687126917</updated>
+      <updated>1725773002813</updated>
     </task>
-    <task id="LOCAL-00484" summary="testng day 01">
-      <created>1725687132843</created>
-      <option name="number" value="00484" />
-      <option name="presentableId" value="LOCAL-00484" />
+    <task id="LOCAL-00546" summary="testng day 02">
+      <created>1725773006086</created>
+      <option name="number" value="00546" />
+      <option name="presentableId" value="LOCAL-00546" />
       <option name="project" value="LOCAL" />
-      <updated>1725687132843</updated>
+      <updated>1725773006086</updated>
     </task>
-    <task id="LOCAL-00485" summary="testng day 01">
-      <created>1725687137324</created>
-      <option name="number" value="00485" />
-      <option name="presentableId" value="LOCAL-00485" />
+    <task id="LOCAL-00547" summary="testng day 02">
+      <created>1725773009731</created>
+      <option name="number" value="00547" />
+      <option name="presentableId" value="LOCAL-00547" />
       <option name="project" value="LOCAL" />
-      <updated>1725687137324</updated>
+      <updated>1725773009732</updated>
     </task>
-    <task id="LOCAL-00486" summary="testng day 01">
-      <created>1725687142505</created>
-      <option name="number" value="00486" />
-      <option name="presentableId" value="LOCAL-00486" />
+    <task id="LOCAL-00548" summary="testng day 02">
+      <created>1725773013521</created>
+      <option name="number" value="00548" />
+      <option name="presentableId" value="LOCAL-00548" />
       <option name="project" value="LOCAL" />
-      <updated>1725687142505</updated>
+      <updated>1725773013521</updated>
     </task>
-    <task id="LOCAL-00487" summary="testng day 01">
-      <created>1725687146942</created>
-      <option name="number" value="00487" />
-      <option name="presentableId" value="LOCAL-00487" />
+    <task id="LOCAL-00549" summary="testng day 02">
+      <created>1725773017472</created>
+      <option name="number" value="00549" />
+      <option name="presentableId" value="LOCAL-00549" />
       <option name="project" value="LOCAL" />
-      <updated>1725687146942</updated>
+      <updated>1725773017472</updated>
     </task>
-    <task id="LOCAL-00488" summary="testng day 01">
-      <created>1725687149878</created>
-      <option name="number" value="00488" />
-      <option name="presentableId" value="LOCAL-00488" />
+    <task id="LOCAL-00550" summary="testng day 02">
+      <created>1725773021516</created>
+      <option name="number" value="00550" />
+      <option name="presentableId" value="LOCAL-00550" />
       <option name="project" value="LOCAL" />
-      <updated>1725687149878</updated>
+      <updated>1725773021517</updated>
     </task>
-    <task id="LOCAL-00489" summary="testng day 01">
-      <created>1725687153537</created>
-      <option name="number" value="00489" />
-      <option name="presentableId" value="LOCAL-00489" />
+    <task id="LOCAL-00551" summary="testng day 02">
+      <created>1725773026124</created>
+      <option name="number" value="00551" />
+      <option name="presentableId" value="LOCAL-00551" />
       <option name="project" value="LOCAL" />
-      <updated>1725687153537</updated>
+      <updated>1725773026124</updated>
     </task>
-    <task id="LOCAL-00490" summary="testng day 01">
-      <created>1725687157499</created>
-      <option name="number" value="00490" />
-      <option name="presentableId" value="LOCAL-00490" />
+    <task id="LOCAL-00552" summary="testng day 02">
+      <created>1725773030056</created>
+      <option name="number" value="00552" />
+      <option name="presentableId" value="LOCAL-00552" />
       <option name="project" value="LOCAL" />
-      <updated>1725687157499</updated>
+      <updated>1725773030056</updated>
     </task>
-    <task id="LOCAL-00491" summary="testng day 01">
-      <created>1725687161861</created>
-      <option name="number" value="00491" />
-      <option name="presentableId" value="LOCAL-00491" />
+    <task id="LOCAL-00553" summary="testng day 02">
+      <created>1725773034160</created>
+      <option name="number" value="00553" />
+      <option name="presentableId" value="LOCAL-00553" />
       <option name="project" value="LOCAL" />
-      <updated>1725687161861</updated>
+      <updated>1725773034160</updated>
     </task>
-    <task id="LOCAL-00492" summary="testng day 01">
-      <created>1725687164612</created>
-      <option name="number" value="00492" />
-      <option name="presentableId" value="LOCAL-00492" />
+    <task id="LOCAL-00554" summary="testng day 02">
+      <created>1725773038491</created>
+      <option name="number" value="00554" />
+      <option name="presentableId" value="LOCAL-00554" />
       <option name="project" value="LOCAL" />
-      <updated>1725687164612</updated>
+      <updated>1725773038491</updated>
     </task>
-    <task id="LOCAL-00493" summary="testng day 01">
-      <created>1725687167913</created>
-      <option name="number" value="00493" />
-      <option name="presentableId" value="LOCAL-00493" />
+    <task id="LOCAL-00555" summary="testng day 02">
+      <created>1725773042302</created>
+      <option name="number" value="00555" />
+      <option name="presentableId" value="LOCAL-00555" />
       <option name="project" value="LOCAL" />
-      <updated>1725687167913</updated>
+      <updated>1725773042302</updated>
     </task>
-    <task id="LOCAL-00494" summary="testng day 01">
-      <created>1725687171023</created>
-      <option name="number" value="00494" />
-      <option name="presentableId" value="LOCAL-00494" />
+    <task id="LOCAL-00556" summary="testng day 02">
+      <created>1725773046070</created>
+      <option name="number" value="00556" />
+      <option name="presentableId" value="LOCAL-00556" />
       <option name="project" value="LOCAL" />
-      <updated>1725687171023</updated>
+      <updated>1725773046070</updated>
     </task>
-    <task id="LOCAL-00495" summary="testng day 01">
-      <created>1725687174084</created>
-      <option name="number" value="00495" />
-      <option name="presentableId" value="LOCAL-00495" />
+    <task id="LOCAL-00557" summary="testng day 02">
+      <created>1725773049888</created>
+      <option name="number" value="00557" />
+      <option name="presentableId" value="LOCAL-00557" />
       <option name="project" value="LOCAL" />
-      <updated>1725687174084</updated>
+      <updated>1725773049888</updated>
     </task>
-    <task id="LOCAL-00496" summary="testng day 01">
-      <created>1725687176802</created>
-      <option name="number" value="00496" />
-      <option name="presentableId" value="LOCAL-00496" />
+    <task id="LOCAL-00558" summary="testng day 02">
+      <created>1725773054579</created>
+      <option name="number" value="00558" />
+      <option name="presentableId" value="LOCAL-00558" />
       <option name="project" value="LOCAL" />
-      <updated>1725687176802</updated>
+      <updated>1725773054579</updated>
     </task>
-    <task id="LOCAL-00497" summary="testng day 01">
-      <created>1725687180087</created>
-      <option name="number" value="00497" />
-      <option name="presentableId" value="LOCAL-00497" />
+    <task id="LOCAL-00559" summary="testng day 02">
+      <created>1725773058380</created>
+      <option name="number" value="00559" />
+      <option name="presentableId" value="LOCAL-00559" />
       <option name="project" value="LOCAL" />
-      <updated>1725687180087</updated>
+      <updated>1725773058380</updated>
     </task>
-    <task id="LOCAL-00498" summary="testng day 01">
-      <created>1725687183046</created>
-      <option name="number" value="00498" />
-      <option name="presentableId" value="LOCAL-00498" />
+    <task id="LOCAL-00560" summary="testng day 02">
+      <created>1725773062340</created>
+      <option name="number" value="00560" />
+      <option name="presentableId" value="LOCAL-00560" />
       <option name="project" value="LOCAL" />
-      <updated>1725687183046</updated>
+      <updated>1725773062340</updated>
     </task>
-    <task id="LOCAL-00499" summary="testng day 01">
-      <created>1725769923032</created>
-      <option name="number" value="00499" />
-      <option name="presentableId" value="LOCAL-00499" />
+    <task id="LOCAL-00561" summary="testng day 02">
+      <created>1725773066374</created>
+      <option name="number" value="00561" />
+      <option name="presentableId" value="LOCAL-00561" />
       <option name="project" value="LOCAL" />
-      <updated>1725769923032</updated>
+      <updated>1725773066374</updated>
     </task>
-    <task id="LOCAL-00500" summary="testng day 01">
-      <created>1725769929147</created>
-      <option name="number" value="00500" />
-      <option name="presentableId" value="LOCAL-00500" />
+    <task id="LOCAL-00562" summary="testng day 02">
+      <created>1725773070168</created>
+      <option name="number" value="00562" />
+      <option name="presentableId" value="LOCAL-00562" />
       <option name="project" value="LOCAL" />
-      <updated>1725769929147</updated>
+      <updated>1725773070168</updated>
     </task>
-    <task id="LOCAL-00501" summary="testng day 01">
-      <created>1725769933148</created>
-      <option name="number" value="00501" />
-      <option name="presentableId" value="LOCAL-00501" />
+    <task id="LOCAL-00563" summary="testng day 02">
+      <created>1725773074108</created>
+      <option name="number" value="00563" />
+      <option name="presentableId" value="LOCAL-00563" />
       <option name="project" value="LOCAL" />
-      <updated>1725769933148</updated>
+      <updated>1725773074108</updated>
     </task>
-    <option name="localTasksCounter" value="502" />
+    <option name="localTasksCounter" value="564" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -623,7 +604,8 @@
     <MESSAGE value="POM selenium" />
     <MESSAGE value="wait and iframe selenium" />
     <MESSAGE value="testng day 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="testng day 01" />
+    <MESSAGE value="testng day 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="testng day 02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
