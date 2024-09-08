@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suites">
+    <test verbose="2"
+          preserve-order="true"
+          name="Test Status">
+        <classes>
+            <class name="testng.day02.TestNGPassandFailedandSkippedTest">
+        <methods>
+            <include name="testCase1"/>
+            <include name="testCase2"/>
+            <include name="testCase3"/>
+            <include name="testCase4"/>
+        </methods>
+    </class>
+            <class name="testng.day02.TestNGParameterExample">
+                <methods>
+                    <include name="loginTest"/>
+                    <parameter name="logindata" value="maktab"></parameter>
+                    <parameter name="password" value="learning2024"></parameter>
+                </methods>
+            </class>
+    </classes>
+    </test>
+</suite>
