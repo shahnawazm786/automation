@@ -5,9 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="testng day 01">
-      <change afterPath="$PROJECT_DIR$/src/main/java/testng/day01/TestNGExample_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testng/day01/TestNGExample_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testng/day02/TestNGAlwaysRunExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testng/day02/TestNGParameterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testng/day02/TestNGPassandFailedandSkippedTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Browser Stack/KAZ Learning Program.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Browser Stack/KAZ Learning Program.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/jquery-3.6.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-testng.day01.TestNGAnnotationExample.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-testng.day01.TestNGExample.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-testng.day01.TestNGExample_01.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +78,7 @@
       <recent name="C:\weekly-classes\automation\src\main\resources\drivers\chrome" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestNGExample_03">
+  <component name="RunManager" selected="TestNG.TestNGAlwaysRunExample">
     <configuration name="BrowserStack" type="TestNG">
       <module name="automation" />
       <shortenClasspath name="NONE" />
@@ -100,51 +121,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNGAnnotationExample" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNGAlwaysRunExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testng.day01.*" />
+          <option name="PATTERN" value="testng.day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testng.day01" />
-      <option name="MAIN_CLASS_NAME" value="testng.day01.TestNGAnnotationExample" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestNGAnnotationExample.TestAnnotation2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="automation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testng.day01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testng.day01" />
-      <option name="MAIN_CLASS_NAME" value="testng.day01.TestNGAnnotationExample" />
-      <option name="METHOD_NAME" value="TestAnnotation2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestNGExample_02" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="automation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testng.day01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testng.day01" />
-      <option name="MAIN_CLASS_NAME" value="testng.day01.TestNGExample_02" />
+      <option name="PACKAGE_NAME" value="testng.day02" />
+      <option name="MAIN_CLASS_NAME" value="testng.day02.TestNGAlwaysRunExample" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -169,21 +155,55 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestNGParameterExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testng.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testng.day02" />
+      <option name="MAIN_CLASS_NAME" value="testng.day02.TestNGParameterExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGPassandFailedandSkippedTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testng.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testng.day02" />
+      <option name="MAIN_CLASS_NAME" value="testng.day02.TestNGPassandFailedandSkippedTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="TestNG.BrowserStack" />
-      <item itemvalue="TestNG.TestNGExample_02" />
+      <item itemvalue="TestNG.TestNGAlwaysRunExample" />
       <item itemvalue="TestNG.TestNGExample_03" />
+      <item itemvalue="TestNG.TestNGParameterExample" />
+      <item itemvalue="TestNG.TestNGPassandFailedandSkippedTest" />
       <item itemvalue="TestNG.C:/weekly-classes/automation/testng.xml" />
-      <item itemvalue="TestNG.TestNGAnnotationExample" />
-      <item itemvalue="TestNG.TestNGAnnotationExample.TestAnnotation2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestNGExample_03" />
-        <item itemvalue="TestNG.TestNGExample_02" />
+        <item itemvalue="TestNG.TestNGAlwaysRunExample" />
         <item itemvalue="TestNG.C:/weekly-classes/automation/testng.xml" />
-        <item itemvalue="TestNG.TestNGAnnotationExample.TestAnnotation2" />
-        <item itemvalue="TestNG.TestNGAnnotationExample" />
+        <item itemvalue="TestNG.TestNGParameterExample" />
+        <item itemvalue="TestNG.TestNGPassandFailedandSkippedTest" />
+        <item itemvalue="TestNG.TestNGExample_03" />
       </list>
     </recent_temporary>
   </component>
@@ -195,27 +215,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00450" summary="testng day 01">
-      <created>1725685968979</created>
-      <option name="number" value="00450" />
-      <option name="presentableId" value="LOCAL-00450" />
-      <option name="project" value="LOCAL" />
-      <updated>1725685968979</updated>
-    </task>
-    <task id="LOCAL-00451" summary="testng day 01">
-      <created>1725685975365</created>
-      <option name="number" value="00451" />
-      <option name="presentableId" value="LOCAL-00451" />
-      <option name="project" value="LOCAL" />
-      <updated>1725685975365</updated>
-    </task>
-    <task id="LOCAL-00452" summary="testng day 01">
-      <created>1725685982579</created>
-      <option name="number" value="00452" />
-      <option name="presentableId" value="LOCAL-00452" />
-      <option name="project" value="LOCAL" />
-      <updated>1725685982579</updated>
     </task>
     <task id="LOCAL-00453" summary="testng day 01">
       <created>1725685986584</created>
@@ -539,7 +538,28 @@
       <option name="project" value="LOCAL" />
       <updated>1725687183046</updated>
     </task>
-    <option name="localTasksCounter" value="499" />
+    <task id="LOCAL-00499" summary="testng day 01">
+      <created>1725769923032</created>
+      <option name="number" value="00499" />
+      <option name="presentableId" value="LOCAL-00499" />
+      <option name="project" value="LOCAL" />
+      <updated>1725769923032</updated>
+    </task>
+    <task id="LOCAL-00500" summary="testng day 01">
+      <created>1725769929147</created>
+      <option name="number" value="00500" />
+      <option name="presentableId" value="LOCAL-00500" />
+      <option name="project" value="LOCAL" />
+      <updated>1725769929147</updated>
+    </task>
+    <task id="LOCAL-00501" summary="testng day 01">
+      <created>1725769933148</created>
+      <option name="number" value="00501" />
+      <option name="presentableId" value="LOCAL-00501" />
+      <option name="project" value="LOCAL" />
+      <updated>1725769933148</updated>
+    </task>
+    <option name="localTasksCounter" value="502" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
