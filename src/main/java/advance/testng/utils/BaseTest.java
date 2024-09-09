@@ -23,7 +23,7 @@ public class BaseTest extends TestListenerAdapter {
 
     @Override
     public void onTestFailure(ITestResult tr) {
-        super.onTestFailure(tr);
+        //super.onTestFailure(tr);
         System.out.println(tr+"\t => Test Failed");
     }
 
