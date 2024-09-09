@@ -5,6 +5,8 @@ import org.openqa.selenium.NoSuchElementException;
 import org.testng.SkipException;
 import org.testng.annotations.Test;
 
+import static org.testng.Assert.assertFalse;
+
 public class LoginPageTest extends BaseTest {
 
     @Test
@@ -14,7 +16,7 @@ public class LoginPageTest extends BaseTest {
     @Test
     public void failTest(){
         System.out.println("Test failed");
-        throw new NoSuchElementException("Exception raised");
+        assertFalse(true);
     }
     @Test
     public void skipTest()
