@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="testng day 02">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/advance/testng/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/advance/testng/LoginPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/advance/testng/utils/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/advance/testng/utils/BaseTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="b971f21e-9c3d-46f0-9767-644a1595c9a7" name="Changes" comment="testng day 02" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,27 +191,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715484781963</updated>
-    </task>
-    <task id="LOCAL-00523" summary="testng day 02">
-      <created>1725772478879</created>
-      <option name="number" value="00523" />
-      <option name="presentableId" value="LOCAL-00523" />
-      <option name="project" value="LOCAL" />
-      <updated>1725772478879</updated>
-    </task>
-    <task id="LOCAL-00524" summary="testng day 02">
-      <created>1725772483300</created>
-      <option name="number" value="00524" />
-      <option name="presentableId" value="LOCAL-00524" />
-      <option name="project" value="LOCAL" />
-      <updated>1725772483300</updated>
-    </task>
-    <task id="LOCAL-00525" summary="testng day 02">
-      <created>1725772488181</created>
-      <option name="number" value="00525" />
-      <option name="presentableId" value="LOCAL-00525" />
-      <option name="project" value="LOCAL" />
-      <updated>1725772488181</updated>
     </task>
     <task id="LOCAL-00526" summary="testng day 02">
       <created>1725772873080</created>
@@ -539,7 +514,28 @@
       <option name="project" value="LOCAL" />
       <updated>1725849269070</updated>
     </task>
-    <option name="localTasksCounter" value="572" />
+    <task id="LOCAL-00572" summary="testng day 02">
+      <created>1725849651409</created>
+      <option name="number" value="00572" />
+      <option name="presentableId" value="LOCAL-00572" />
+      <option name="project" value="LOCAL" />
+      <updated>1725849651409</updated>
+    </task>
+    <task id="LOCAL-00573" summary="testng day 02">
+      <created>1725849658317</created>
+      <option name="number" value="00573" />
+      <option name="presentableId" value="LOCAL-00573" />
+      <option name="project" value="LOCAL" />
+      <updated>1725849658317</updated>
+    </task>
+    <task id="LOCAL-00574" summary="testng day 02">
+      <created>1725849662614</created>
+      <option name="number" value="00574" />
+      <option name="presentableId" value="LOCAL-00574" />
+      <option name="project" value="LOCAL" />
+      <updated>1725849662614</updated>
+    </task>
+    <option name="localTasksCounter" value="575" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
